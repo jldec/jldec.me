@@ -3,7 +3,6 @@ title: Getting started with Go pointers
 splash:
   image: images/ladybug.jpg
 date: 2021-04-18
-template: post
 metap-og;title: Getting started with Go pointers
 metap-og;image: https://jldec.me/images/ladybug.jpg
 metap-og;type: article

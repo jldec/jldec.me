@@ -3,7 +3,6 @@ title: Why Serverless at the Edge?
 splash:
   image: images/wires.jpg
 date: 2019-07-11
-template: post
 excerpt: What makes Serverless at the edge useful in ways that more-centralized cloud services are not?
 ---
 

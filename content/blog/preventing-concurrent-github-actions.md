@@ -4,7 +4,6 @@ title: Preventing concurrent GitHub Actions
 splash:
   image: images/rose.jpg
 date: 2021-06-13
-template: post
 metap-og;title: Preventing concurrent GitHub Actions
 metap-og;image: https://jldec.me/images/rose.jpg
 metap-og;type: article

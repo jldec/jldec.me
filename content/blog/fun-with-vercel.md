@@ -3,7 +3,6 @@ title: Fun with Vercel
 splash:
   image: images/library.jpg
 date: 2021-02-07
-template: post
 excerpt: |
   How I deployed [jldec.fun](https://jldec.fun/) using the [Vercel platform](https://vercel.com/docs).
 ---

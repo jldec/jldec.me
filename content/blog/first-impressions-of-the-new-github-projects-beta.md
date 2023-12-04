@@ -3,7 +3,6 @@ title: First impressions of the new GitHub Projects Beta
 splash:
   image: images/red-autumn-leaves.jpg
 date: 2021-10-31
-template: post
 metap-og;title: First impressions of the new GitHub Projects Beta
 metap-og;image: https://jldec.me/images/red-autumn-leaves.jpg
 metap-og;type: article

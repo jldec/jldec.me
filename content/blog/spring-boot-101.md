@@ -3,7 +3,6 @@ title: Spring Boot 101
 splash:
   image: images/boot1.jpg
 date: 2017-06-28
-template: post
 metap-og;title: Spring Boot 101
 metap-og;image: https://jldec.me/images/boot1.jpg
 metap-og;type: article

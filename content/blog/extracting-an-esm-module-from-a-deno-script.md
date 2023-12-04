@@ -3,7 +3,6 @@ title: Extracting an ESM module from a Deno script
 splash:
   image: images/persewide.jpg
 date: 2021-03-21
-template: post
 metap-og;title: Extracting an ESM module from a Deno script
 metap-og;image: https://jldec.me/images/persewide.jpg
 metap-og;type: article

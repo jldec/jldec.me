@@ -16,6 +16,8 @@ navlinks:
     text: LinkedIn
 
 title: Jürgen Leschner
+subtitle: c'est moi
+
 splash:
   image: images/london-me.jpg
 

@@ -3,7 +3,6 @@ title: Migrating from CommonJS to ESM
 splash:
   image: images/calm.jpg
 date: 2021-01-23
-template: post
 excerpt: How to migrate from CommonJS to EcmaScript Modules.
 ---
 
@@ -116,7 +115,7 @@ For this demo, `package.json` installs both versions of shortscale.
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Jurgen Leschner",
+  "author": "Jürgen Leschner",
   "license": "MIT",
   "dependencies": {
     "fastify": "^3.11.0",

@@ -5,7 +5,7 @@ layout: Neat
 nocrawl: 1
 ---
 
-# Jurgen Leschner
+# Jürgen Leschner
 [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [email](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me")
 
 Software engineer and experienced EM/PM leader.  

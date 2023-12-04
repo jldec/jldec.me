@@ -3,7 +3,6 @@ title: Getting started with Go
 splash:
   image: images/church-blossoms.jpg
 date: 2021-04-03
-template: post
 metap-og;title: Getting started with Go
 metap-og;image: https://jldec.me/images/church-blossoms.jpg
 metap-og;type: article

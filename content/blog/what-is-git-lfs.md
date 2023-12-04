@@ -3,7 +3,6 @@ title: What is git LFS?
 splash:
   image: images/station-clouds.jpg
 date: 2022-02-08
-template: post
 metap-og;title: What is git LFS?
 metap-og;image: https://jldec.me/images/station-clouds.jpg
 metap-og;type: article

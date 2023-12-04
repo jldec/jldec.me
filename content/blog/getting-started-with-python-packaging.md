@@ -4,7 +4,6 @@ title: Getting started with Python Packaging
 splash:
   image: images/rockford-office.jpg
 date: 2023-02-22
-template: post
 metap-og;title: Getting started with Python Packaging
 metap-og;image: https://jldec.me/images/rockford-office.jpg
 metap-og;type: article

@@ -3,7 +3,6 @@ title: Getting started with Goroutines and channels
 splash:
   image: images/grape-hyacinth.jpg
 date: 2021-04-25
-template: post
 metap-og;title: Getting started with Goroutines and channels
 metap-og;image: https://jldec.me/images/grape-hyacinth.jpg
 metap-og;type: article

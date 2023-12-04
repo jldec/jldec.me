@@ -1,8 +1,7 @@
 ---
 name: Jürgen Leschner
-template: home
-multipage: 1
 splash:
-  image: images/hotc2015.jpg
-
+  image: images/bridge.jpg
+title: Blog
+subtitle: 'expériences intéressantes'
 ---

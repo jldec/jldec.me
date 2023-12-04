@@ -3,7 +3,6 @@ title: Why the Web needs better HTML editing components
 splash:
   image: images/bridge.jpg
 date: 2015-08-13
-template: post
 excerpt: |
   HTML, and it's siblings like CSS, with all their power and sophistication, have become so complex, that they are impossible to edit by anyone except experts. So, what's the answer?
 
