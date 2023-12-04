@@ -12,7 +12,7 @@ excerpt: |
 
 Last week I wrote about [](first-steps-using-cloudflare-pages).
 
-[Vercel](https://vercel.com/home) is another leader in the trend toward static hosting, serverless, and [edge compute](/why-serverless-at-the-edge).
+[Vercel](https://vercel.com/home) is another leader in the trend toward static hosting, serverless, and [edge compute](/blog/why-serverless-at-the-edge).
 
 ## [jldec.fun](https://jldec.fun/fun-with-vercel) 🤪
 

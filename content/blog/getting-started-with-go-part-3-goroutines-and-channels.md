@@ -24,7 +24,7 @@ excerpt: Part 3 in my learning Go series, focusing on concurrency with Goroutine
 
 This is part 3 of my experience as a new user of Go, focusing on concurrency with Goroutines and channels.
 
-For installation, testing, and packages, see [Getting started with Go](/getting-started-with-go), and for pointers see [Getting started with Go pointers](/getting-started-with-go-part-2-pointers).
+For installation, testing, and packages, see [Getting started with Go](/blog/getting-started-with-go), and for pointers see [Getting started with Go pointers](/blog/getting-started-with-go-part-2-pointers).
 
 ## Counting HTTP requests
 

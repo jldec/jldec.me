@@ -28,7 +28,7 @@ The [Go](https://go.dev/) programming language has become an important tool for 
 
 Go was created at Google by a team whose roots go back to Bell Labs and [C](https://en.wikipedia.org/wiki/C_(programming_language)). Their [motivations](https://talks.golang.org/2012/splash.article) included fast compilation time, and productive development of large scale distributed systems, handling high volumes of concurrent requests.
 
-This article describes my experience as a new user of Go, building my first Go library. It follows a learning pattern similar to [forays from Node to Rust](/forays-from-node-to-rust).
+This article describes my experience as a new user of Go, building my first Go library. It follows a learning pattern similar to [forays from Node to Rust](/blog/forays-from-node-to-rust).
 
 ## Getting started
 
@@ -204,7 +204,7 @@ cpu: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
 
 ## Dependency management
 
-Until quite recently, Go [did not have](https://research.swtch.com/vgo-intro#versioning_and_api_stability) built-in package versioning like [npm](/migrating-from-cjs-to-esm) or [cargo](/forays-from-node-to-rust). This led to incompatibile versioning add-ons, like [godep](https://github.com/tools/godep) and [glide](https://github.com/Masterminds/glide), which made packages with nested dependencies difficult to consume. E.g. see this old [INSTALL.md](https://github.com/kubernetes/client-go/blob/416948da08dfd61cd4a08a3d679865ce91ff39b6/INSTALL.md#dependency-management-for-the-serious-or-reluctant-user) from kubernetes/client-go.
+Until quite recently, Go [did not have](https://research.swtch.com/vgo-intro#versioning_and_api_stability) built-in package versioning like [npm](/blog/migrating-from-cjs-to-esm) or [cargo](/blog/forays-from-node-to-rust). This led to incompatibile versioning add-ons, like [godep](https://github.com/tools/godep) and [glide](https://github.com/Masterminds/glide), which made packages with nested dependencies difficult to consume. E.g. see this old [INSTALL.md](https://github.com/kubernetes/client-go/blob/416948da08dfd61cd4a08a3d679865ce91ff39b6/INSTALL.md#dependency-management-for-the-serious-or-reluctant-user) from kubernetes/client-go.
 
 > Fortunately, [Go modules](https://blog.golang.org/using-go-modules) are enabled as the default in Go since [v1.16](https://blog.golang.org/go116-module-changes).
 
@@ -234,7 +234,7 @@ The shortscale package is published at https://pkg.go.dev/github.com/jldec/short
 
 It turns out that fetching any versioned module with `go get`, automatically adds that module to the registry at [go.dev](https://go.dev/about). This feels a little strange at first, but the more I use it, the more I think it's a clever solution.
 
-> How about using a similar scheme to create a vendor-neutral registry for [ESM modules](/extracting-an-esm-module-from-a-deno-script)?  
+> How about using a similar scheme to create a vendor-neutral registry for [ESM modules](/blog/extracting-an-esm-module-from-a-deno-script)?  
 🤔
 
 _To leave a comment  
