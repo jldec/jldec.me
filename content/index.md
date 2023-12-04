@@ -7,7 +7,7 @@ navlinks:
     text: BLOG
   - href: https://twitter.com/jldec
     icon: Twitter
-    text: Ex-twitter now X
+    text: Twitter
   - href: https://github.com/jldec/jldec.me
     icon: GitHub
     text: GitHub
@@ -17,24 +17,24 @@ navlinks:
 
 title: Jürgen Leschner
 splash:
-  image: images/dublin-clouds.jpg
+  image: images/london-me.jpg
 
 layout: Mono
 ---
 
-### > whoami
+## > whoami
 
 I am a software engineer and highly technical EM/PM leader with a passion for front-end architecture.
 
-- I enjoy shipping product and working with diverse people
-- I am obsessive about simplifying user experiences
-- I am devoted to helping customers
-- I learn by questioning, building and testing
-- I am hard working, and a team player
+- I enjoy shipping product and working with diverse people.
+- I am obsessive about simplifying user experiences.
+- I am devoted to helping customers.
+- I learn by questioning, building and testing.
+- I am hard working, and a team player.
 
 Find more details in my [resume](resume).
 
-### > history
+## > history
 
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com) (Python, SvelteKit, Tailwind) - 2023
 - cloud development environments: [Gitpod](https://www.gitpod.io/cde) - 2022
