@@ -1,4 +1,6 @@
 ---
+appurl: https://jldec.me/
+
 icon:
   text: '@jldec'
 
