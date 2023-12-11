@@ -9,8 +9,8 @@ devDependencies:
     specifier: ^0.5.10
     version: 0.5.10(tailwindcss@3.3.6)
   '@zeroasic/zaui':
-    specifier: ^0.4.14
-    version: 0.4.14
+    specifier: ^0.5.0
+    version: 0.5.0
   autoprefixer:
     specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.32)
@@ -503,8 +503,8 @@ packages:
       pretty-format: 29.7.0
     dev: true
 
-  /@zeroasic/zaui@0.4.14:
-    resolution: {integrity: sha512-Oz6kkHl6Kp0mz5zC1ickZF4FXfV47askNU/q9Kzs3OUqe9wQnQo4DDjH45R4FbOmy5FpnXtTgJ2d+jZBNTUTCg==}
+  /@zeroasic/zaui@0.5.0:
+    resolution: {integrity: sha512-rJrj6dQBIsKKpcUxdEpGmyI9SHmmPQv3ewv+Gs6vyEPwjS7mfn8Dzdu0+fjpZDBya34z3zdk/X3E9QTun9DQlw==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
@@ -609,7 +609,7 @@ packages:
       postcss: ^8.1.0
     dependencies:
       browserslist: 4.22.2
-      caniuse-lite: 1.0.30001566
+      caniuse-lite: 1.0.30001568
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.0.0
@@ -651,7 +651,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001566
+      caniuse-lite: 1.0.30001568
       electron-to-chromium: 1.4.609
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.22.2)
@@ -676,8 +676,8 @@ packages:
     engines: {node: '>= 6'}
     dev: true
 
-  /caniuse-lite@1.0.30001566:
-    resolution: {integrity: sha512-ggIhCsTxmITBAMmK8yZjEhCO5/47jKXPu6Dha/wuCS4JePVL+3uiDEBuhu2aIoT+bqTOR8L76Ip1ARL9xYsEJA==}
+  /caniuse-lite@1.0.30001568:
+    resolution: {integrity: sha512-vSUkH84HontZJ88MiNrOau1EBrCqEQYgkC5gIySiDlpsm8sGVrhU7Kx4V6h0tnqaHzIHZv08HlJIwPbL4XL9+A==}
     dev: true
 
   /chai@4.3.10:
