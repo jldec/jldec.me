@@ -40,6 +40,7 @@ View [source](https://github.com/jldec/jldec.me).
 
 ## > history
 
+- markdown site generator [zaui](https://zaui.zeroasic.com/) - 2023
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com) (Python, SvelteKit, Tailwind) - 2023
 - cloud development environments: [Gitpod](https://www.gitpod.io/cde) - 2022
 - [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) for Kubernetes - 2021
