@@ -6,7 +6,7 @@ nocrawl: 1
 ---
 
 # Jürgen Leschner
-[jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me")
+[jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendly](https://calendly.com/jldec/30min).
 
 Software engineer and experienced EM/PM leader.  
 Currently based in Dublin Ireland, German/EU national, US green card.

@@ -16,9 +16,11 @@ navlinks:
   - href: https://www.linkedin.com/in/jldec
     icon: LinkedIn
     text: LinkedIn
+  - href: https://calendly.com/jldec/30min
+    icon: CalendarDays
+    text: Book an Appointment
 
 title: Jürgen Leschner
-subtitle: c'est moi
 
 splash:
   image: crew-cover.jpg
@@ -30,13 +32,12 @@ layout: Mono
 
 Software engineer and technical EM/PM, with a passion for architecture at the leading edge.
 
-- I like to ship product.
-- I obsess about simplifying user experiences.
-- I live to learn.
+> I like to ship product.
 
 Find more details in my [resume](resume).  
 Check out my [blog](blog).  
-View [source](https://github.com/jldec/jldec.me).
+View [source](https://github.com/jldec/jldec.me).  
+Book an [appointment](https://calendly.com/jldec/30min).
 
 ## > history
 
