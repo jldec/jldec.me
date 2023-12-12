@@ -16,6 +16,9 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 - Successfully shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation) in Oct 2023.
 - Released [zaui](https://github.com/zeroasiccorp/zaui), npm-installable SvelteKit toolchain for publishing websites from Markdown.
 
+#### **Haydn Labs**: _Founder, Boston, 2013 - present_
+- Markdown static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm)
+
 #### **Gitpod**: _Product manager, remote Cambridge UK, Oct 2021 - Feb 2023_
 - Provider of [cloud development environments](https://www.gitpod.io/cde), built on Kubernetes
 - Successfully led the team to ship usage-based billing.
@@ -28,10 +31,6 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 #### **GitHub**: _Principal Engineer, Engineering manager, remote Cambridge USA, 2016 - 2017_
 - Designed, built, shipped, and operated new features for GitHub Pages
 - Active participation in dev-ops of high-volume SaaS developer platform
-
-#### **Haydn Labs**: _Founder, Boston, 2013 - 2015_
-- Markdown static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm)
-- Early exit via acquihire by GitHub
 
 #### **EMC / VMWare**: _Engineering manager, remote Boston, 2008 - 2013_
 - Cloud storage infrastructure: Cloud Foundry S3 emulator (node.js)
