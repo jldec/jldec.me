@@ -28,15 +28,15 @@ layout: Mono
 
 ## > whoami
 
-I am a software engineer and highly technical EM/PM leader with a passion for front-end architecture.
+Software engineer and technical EM/PM, with a passion for architecture at the leading edge.
 
-- I enjoy shipping product and working with diverse people.
+- I enjoy shipping product and working with diverse, brilliant people.
 - I am obsessive about simplifying user experiences.
 - I am devoted to helping customers.
-- I learn by questioning, building and testing.
-- I am hard working, and a team player.
 
-Find more details in my [resume](resume).
+Find more details in my [resume](resume).  
+Check out my [blog](blog).  
+View [source](https://github.com/jldec/jldec.me).
 
 ## > history
 
