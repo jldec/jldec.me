@@ -4,6 +4,7 @@ appurl: https://jldec.me
 favicon: favicon.jpg
 twitter: '@jldec'
 layout: Mono
+mobilemenu: false
 
 icon:
   text: '@jldec'
