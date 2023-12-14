@@ -35,27 +35,28 @@ Details in my [resume](resume).
 
 ## > history
 
-- markdown site generator [zaui](https://zaui.zeroasic.com/) - 2023
-- chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com) (Python, SvelteKit, Tailwind) - 2023
-- cloud development environments: [Gitpod](https://www.gitpod.io/cde) - 2022
-- [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) for Kubernetes - 2021
-- serverless on Kubernetes: [riff](https://projectriff.io) - 2018
-- static site hosting: [GitHub Pages](https://pages.github.com) - 2016
-- markdown site generator and editor: [pub-server](https://github.com/jldec/pub-server) (node.js, javascript) - 2014
-- cloud infrastructure: CloudFoundry S3 emulator (node.js) - 2011
-- cloud infrastructure: EMC Atmos Compute Service (Java) - 2008
-- consumer publishing app: Pi Photo (XQuery) - 2006
-- non-relational database: PiStore (C++) - 2003
-- non-relational database: Monadix XML DB (C# .NET) - 2002
-- non-relational database: Collego Catalog DB - binary relations (C++) - 1999
-- dynamic html front end: Collego Catalog UI - (IE4 JScript) - 1999
-- web publishing: Siebel Interactive briefings (HTML & tSQL) - 1998
-- my first commercial [website](https://web.archive.org/web/19961222064651/https://www.fmctraining.com/) - 1996
-- publishing application: IBM PC Catalog (LotusScript, FrameMaker) - 1995
-- database application: POINT (Novell Btrieve) - 1992
-- word processor: MS Word for Windows v1.0a (C++) - 1990
-- word processor: MS Word for DOS (x86 ASM and pCode, SNOBOL4) - 1987
-- touchscreen + videodisc authoring: MIT Media Lab (Logo, MagicL) - 1986
-- word processor: MIT course 6.170 project (CLU) - 1984
+- static site generator [zaui](https://zaui.zeroasic.com/) (SvelteKit, Tailwind, Cloudflare workers)
+- chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com) (Python, AWS EC2)
+- cloud development environments: [Gitpod](https://www.gitpod.io/cde) (Google GKE)
+- kubernetes [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) (java, go)
+- serverless on Kubernetes: [riff](https://projectriff.io), [knative](https://knative.dev/docs/concepts/) (go)
+- static site hosting: [GitHub Pages](https://pages.github.com) (ruby)
+- site generator and editor: [pub-server](https://github.com/jldec/pub-server) (node.js, javascript)
+- cloud infrastructure: CloudFoundry S3 emulator (node.js)
+- cloud infrastructure: EMC Atmos Compute Service (Java)
+- photo sharing: Pi Photo (XQuery)
+- desktop database: PiStore (C++)
+- xml database: Monadix (C# .NET)
+- binary relational database: Collego Catalog DB -  (C++)
+- dynamic html front end: Collego Catalog UI - (IE4 JScript)
+- targeted news publishing: Siebel Interactive briefings (HTML & tSQL)
+- my first commercial [website](https://web.archive.org/web/19961222064651/https://www.fmctraining.com/)
+- catalog publishing: IBM PC Catalog (LotusScript, FrameMaker)
+- CRM database: POINT (Novell Btrieve)
+- word processor: MS Word for Windows v1.0a (C++)
+- word processor: MS Word for DOS (x86 ASM and pCode, SNOBOL4)
+- touchscreen + videodisc authoring: MIT Media Lab (Logo, MagicL)
+- word processor: MIT course 6.170 project (CLU)
+- internet storage: MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (C)
 
 
