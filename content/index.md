@@ -1,8 +1,15 @@
 ---
-appurl: https://jldec.me/
+title: Jürgen Leschner
+appurl: https://jldec.me
+favicon: favicon.jpg
+twitter: '@jldec'
+layout: Mono
 
 icon:
   text: '@jldec'
+
+splash:
+  image: crew-cover.jpg
 
 navlinks:
   - href: /blog
@@ -19,25 +26,12 @@ navlinks:
   - href: https://calendly.com/jldec/30min
     icon: CalendarDays
     text: Book an Appointment
-
-title: Jürgen Leschner
-
-splash:
-  image: crew-cover.jpg
-
-layout: Mono
 ---
 
 ## > whoami
 
-Software engineer and technical EM/PM, with a passion for architecture at the leading edge.
-
-> I like to ship product.
-
-Find more details in my [resume](resume).  
-Check out my [blog](blog).  
-View [source](https://github.com/jldec/jldec.me).  
-Book an [appointment](https://calendly.com/jldec/30min).
+Software engineer and technical EM/PM, with a passion for architecture at the edge.  
+Details in my [resume](resume).
 
 ## > history
 

@@ -3,19 +3,6 @@ title: What is git LFS?
 splash:
   image: images/station-clouds.jpg
 date: 2022-02-08
-metap-og;title: What is git LFS?
-metap-og;image: https://jldec.me/images/station-clouds.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/what-is-git-lfs
-metap-og;description: What is git LFS and how does it work?
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: What is git LFS?
-meta-twitter;description: What is git LFS and how does it work?
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/station-clouds.jpg
-meta-twitter;image;alt: Sunset near Cambridge Station UK
 excerpt: Git large file storage or LFS is a way to store binaries outside your git repo, but still work with them as if they were part of the repo.
 ---
 

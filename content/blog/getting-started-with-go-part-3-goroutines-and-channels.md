@@ -3,19 +3,6 @@ title: Getting started with Goroutines and channels
 splash:
   image: images/grape-hyacinth.jpg
 date: 2021-04-25
-metap-og;title: Getting started with Goroutines and channels
-metap-og;image: https://jldec.me/images/grape-hyacinth.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/getting-started-with-go-part-3-goroutines-and-channels
-metap-og;description: My experience as a new user of Goroutines and channels
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: Getting started with Goroutines and channels
-meta-twitter;description: My experience as a new user of Goroutines and channels
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/grape-hyacinth.jpg
-meta-twitter;image;alt: Ladybug in Cambridge UK
 excerpt: Part 3 in my learning Go series, focusing on concurrency with Goroutines and channels.
 ---
 
@@ -23,7 +10,7 @@ excerpt: Part 3 in my learning Go series, focusing on concurrency with Goroutine
 
 This is part 3 of my experience as a new user of Go, focusing on concurrency with Goroutines and channels.
 
-For installation, testing, and packages, see [Getting started with Go](/blog/getting-started-with-go), and for pointers see [Getting started with Go pointers](/blog/getting-started-with-go-part-2-pointers).
+For installation, testing, and packages, see [Getting started with Go](getting-started-with-go), and for pointers see [Getting started with Go pointers](getting-started-with-go-part-2-pointers).
 
 ## Counting HTTP requests
 

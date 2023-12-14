@@ -4,19 +4,6 @@ title: Getting started with Python Packaging
 splash:
   image: images/rockford-office.jpg
 date: 2023-02-22
-metap-og;title: Getting started with Python Packaging
-metap-og;image: https://jldec.me/images/rockford-office.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/getting-started-with-python
-metap-og;description: From zero to publishing a Python module on pypi.org.
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: Getting started with Python Packaging
-meta-twitter;description: From zero to publishing a Python module on pypi.org.
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/rockford-office.jpg
-meta-twitter;image;alt: View from Rockford Manor Dublin
 excerpt: From zero to publishing a Python module on pypi.org.
 ---
 
@@ -24,7 +11,7 @@ excerpt: From zero to publishing a Python module on pypi.org.
 
 In preparation for using a lot more Python, I decided to refresh my Python knowedge and publish my first Python module at https://pypi.org/project/shortscale/.
 
-Some readers may recognize [shortscale](https://jldec.me/forays-from-node-to-rust) from earlier explorations in [JavaScript](https://github.com/jldec/shortscale), [Rust](https://github.com/jldec/shortscale-rs), and [Go](https://github.com/jldec/shortscale-go).
+Some readers may recognize [shortscale](forays-from-node-to-rust) from earlier explorations in [JavaScript](https://github.com/jldec/shortscale), [Rust](https://github.com/jldec/shortscale-rs), and [Go](https://github.com/jldec/shortscale-go).
 
 This post covers the following steps:
 

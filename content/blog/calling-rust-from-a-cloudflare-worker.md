@@ -14,7 +14,7 @@ From the [WebAssembly spec](https://webassembly.github.io/spec/core/intro/introd
 
 WebAssembly is the first new runnable format supported by all major browsers. It is also showing promise as a standardized way to deploy code to edge environments.
 
-Rust is a popular language for writing code compiled to WebAssembly. This is not just because of Rust's minimal runtime needs, but also because of its community and [tools](https://jldec.me/forays-from-node-to-rust#first-impressions).
+Rust is a popular language for writing code compiled to WebAssembly. This is not just because of Rust's minimal runtime needs, but also because of its community and [tools](forays-from-node-to-rust).
 
 ## Cloudflare Workers
 

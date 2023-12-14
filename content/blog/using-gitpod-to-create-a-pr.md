@@ -3,19 +3,6 @@ title: Using Gitpod to create a PR
 splash:
   image: images/fields-of-clouds.jpg
 date: 2021-10-24
-metap-og;title: Using Gitpod to create a PR
-metap-og;image: https://jldec.me/images/fields-of-clouds.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/using-gitpod-to-create-a-pr
-metap-og;description: Gitpod hosts workspaces for developers. Each workspace is a Linux container running in the cloud, with a fully functional development environment, and an instance of VS Code which you can open in your browser.
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: Using Gitpod to create a PR
-meta-twitter;description: Gitpod hosts workspaces for developers. Each workspace is a Linux container running in the cloud, with a fully functional development environment, and an instance of VS Code which you can open in your browser.
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/fields-of-clouds.jpg
-meta-twitter;image;alt: fields-of-clouds in Cambridge UK
 excerpt: |
   Gitpod hosts workspaces for developers. Each workspace is a Linux container running in the cloud, with a fully functional development environment, and an instance of VS Code which you can open in your browser.
 ---

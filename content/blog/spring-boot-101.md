@@ -3,19 +3,6 @@ title: Spring Boot 101
 splash:
   image: images/boot1.jpg
 date: 2017-06-28
-metap-og;title: Spring Boot 101
-metap-og;image: https://jldec.me/images/boot1.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/spring-boot-101
-metap-og;description: What is a Spring Bean really?
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: Spring Boot 101
-meta-twitter;description: What is a Spring Bean really?
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/boot1.jpg
-meta-twitter;image;alt: Whiteboard with Mark Fisher
 excerpt: Spring Beans are magic - but what's behind them and why are they called beans?
 ---
 

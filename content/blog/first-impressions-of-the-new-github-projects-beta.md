@@ -3,19 +3,6 @@ title: First impressions of the new GitHub Projects Beta
 splash:
   image: images/red-autumn-leaves.jpg
 date: 2021-10-31
-metap-og;title: First impressions of the new GitHub Projects Beta
-metap-og;image: https://jldec.me/images/red-autumn-leaves.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/first-impressions-of-the-new-github-projects-beta
-metap-og;description: Using the new GitHub Issues and Project tables to break down and prioritize issues
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: First impressions of the new GitHub Projects Beta
-meta-twitter;description: Using the new GitHub Issues and Project tables to break down and prioritize issues
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/red-autumn-leaves.jpg
-meta-twitter;image;alt: Autumn leaves in Cambridge UK
 excerpt: |
   Project tables are spreadsheet-like views where each row is a real or a draft issue. Beta Projects also support kanban views. Task lists and draft issues can be converted into real issues.
 ---

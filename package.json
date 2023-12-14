@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
-    "@zeroasic/zaui": "^0.5.1",
+    "@zeroasic/zaui": "^0.5.4",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "tailwindcss": "^3.3.6"

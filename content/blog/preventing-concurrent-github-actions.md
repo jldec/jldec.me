@@ -4,25 +4,12 @@ title: Preventing concurrent GitHub Actions
 splash:
   image: images/rose.jpg
 date: 2021-06-13
-metap-og;title: Preventing concurrent GitHub Actions
-metap-og;image: https://jldec.me/images/rose.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/getting-started-with-go
-metap-og;description: Use the new concurrency group feature to prevent concurrent GitHub Actions workflow runs
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: Preventing concurrent GitHub Actions
-meta-twitter;description: Use the new concurrency group feature to prevent concurrent GitHub Actions workflow runs
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/rose.jpg
-meta-twitter;image;alt: Grape Hyacinths in Cambridge UK
 excerpt: Learn how the new concurrency group feature for GitHub Actions prevents concurrent workflows.
 ---
 
 ## GitHub Actions Workflows
 
-What happens when you trigger a [GitHub Actions](/github-actions-101) workflow which is already running? Workflows which depend on being run one-at-a-time might fail.
+What happens when you trigger a [GitHub Actions](github-actions-101) workflow which is already running? Workflows which depend on being run one-at-a-time might fail.
 
 I recently encountered this with a [workflow](https://github.com/jldec/cloudflare-pages-test/blob/main/.github/workflows/generate.yaml) for publishing a static website. This workflow generates HTML files which are pushed to another git repo for publishing by [GitHub Pages](https://pages.github.com/).
 
@@ -46,7 +33,7 @@ In the case of using actions to generate a GitHub Pages website, [the feature wo
 - In the end only the first and last of the overlapping workflows will be run.
 
 And all you need is [2 lines of yaml](https://github.com/jldec/cloudflare-pages-test/blob/main/.github/workflows/generate.yaml#L5-L6).
-This is from the workflow which generates [jldec.uk](https://jldec.me/first-steps-using-cloudflare-pages#github-pages).
+This is from the workflow which generates [jldec.uk](first-steps-using-cloudflare-pages).
 
 [![Screenshot of yaml for GitHub Action with concurrency group](images/github-actions-concurrency-yaml.png)](https://github.com/jldec/cloudflare-pages-test/blob/main/.github/workflows/generate.yaml#L5-L6)
 

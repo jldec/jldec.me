@@ -13,7 +13,7 @@ excerpt: |
 
 [Deno](https://deno.land/) is a new JavaScript runtime built on [V8](https://github.com/v8/v8#readme).
 
-Deno uses [ESM](/blog/migrating-from-cjs-to-esm) to load JavaScript modules, and natively supports browser APIs like [fetch()](https://deno.land/manual/runtime/web_platform_apis). Together with its [permissions](https://deno.land/manual/getting_started/permissions), this makes Deno feel more like a scriptable web client, and less like a tool for building web servers.
+Deno uses [ESM](migrating-from-cjs-to-esm) to load JavaScript modules, and natively supports browser APIs like [fetch()](https://deno.land/manual/runtime/web_platform_apis). Together with its [permissions](https://deno.land/manual/getting_started/permissions), this makes Deno feel more like a scriptable web client, and less like a tool for building web servers.
 
 The Deno executable is built in Rust. While this may seem like an implementation detail, you could also describe Deno as a tool to embed JavaScript inside Rust programs.
 
@@ -164,7 +164,7 @@ function exit(code, msg) {
 }
 ```
 
-This script is hosted at https://deno-hello.jldec.me/ using [Cloudflare Pages](https://jldec.me/first-steps-using-cloudflare-pages).
+This script is hosted at https://deno-hello.jldec.me/ using [Cloudflare Pages](first-steps-using-cloudflare-pages).
 
 To run it, call `deno run --allow-net SCRIPT URL`. E.g.
 

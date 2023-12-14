@@ -3,28 +3,15 @@ title: Extracting an ESM module from a Deno script
 splash:
   image: images/persewide.jpg
 date: 2021-03-21
-metap-og;title: Extracting an ESM module from a Deno script
-metap-og;image: https://jldec.me/images/persewide.jpg
-metap-og;type: article
-metap-og;url: https://jldec.me/extracting-an-esm-module-from-a-deno-script
-metap-og;description: Will the NPM ecosystem evolve to support nested ESM modules?
-meta-twitter;site: '@jldec'
-meta-twitter;creator: '@jldec'
-meta-twitter;title: Extracting an ESM module from a Deno script
-meta-twitter;description: Will the NPM ecosystem evolve to support nested ESM modules?
-meta-twitter;card: summary_large_image
-meta-twitter;widgets;new-embed-design: on
-meta-twitter;image: https://jldec.me/images/persewide.jpg
-meta-twitter;image;alt: Sunny day in Cambridge UK
 excerpt: |
-  How to extract an [ESM module](/blog/migrating-from-cjs-to-esm) so that it can also be used with Node.js or in the browser.
+  How to extract an ESM module so that it can also be used with Node.js or in the browser.
 
   Will the NPM ecosystem evolve to support nested ESM modules, or will some other organization, with a workable trust model, emerge to replace it?
 ---
 
-This is another followup to my recent post about [Getting Started with Deno](/blog/getting-started-with-deno).
+This is another followup to my recent post about [Getting Started with Deno](getting-started-with-deno).
 
-I thought it would make sense to extract the crawler code into its own [ESM module](/blog/migrating-from-cjs-to-esm) so that it can also be used with Node.js or in the browser.
+I thought it would make sense to extract the crawler code into its own [ESM module](migrating-from-cjs-to-esm) so that it can also be used with Node.js or in the browser.
 
 The resulting [API](https://github.com/jldec/deno-hello/blob/main/scanurl.mjs#L18) is a bit ugly because it expects parse5 and fetch as parameters, but it works  .
 
@@ -108,7 +95,7 @@ Notice the imports for 'parse5' and 'node-fetch'. These are included as dependen
 
 ## So what's wrong with this picture?
 
-As discussed [before](/blog/migrating-from-cjs-to-esm), the NPM ecosystem predates ESM modules, so the two worlds don't play very nicely together. Node.js programs cannot easily load ESM modules which are not in NPM. Meanwhile, browsers know nothing about package.json or the node_modules directory.
+As discussed [before](migrating-from-cjs-to-esm), the NPM ecosystem predates ESM modules, so the two worlds don't play very nicely together. Node.js programs cannot easily load ESM modules which are not in NPM. Meanwhile, browsers know nothing about package.json or the node_modules directory.
 
 When ESM modules depend on other modules, they use 'import' statements with a URL or relative path. Node.js expects those sub-modules to be referenced by their NPM package names.
 
