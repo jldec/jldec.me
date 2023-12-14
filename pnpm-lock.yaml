@@ -9,8 +9,8 @@ devDependencies:
     specifier: ^0.5.10
     version: 0.5.10(tailwindcss@3.3.6)
   '@zeroasic/zaui':
-    specifier: ^0.5.4
-    version: 0.5.4
+    specifier: ^0.5.6
+    version: 0.5.6
   autoprefixer:
     specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.32)
@@ -503,8 +503,8 @@ packages:
       pretty-format: 29.7.0
     dev: true
 
-  /@zeroasic/zaui@0.5.4:
-    resolution: {integrity: sha512-IjRog21F4n2nx31eXi+qAcyL4odg2mYXdzBwYnGuN4YtjpI9NKR/yV7XWWVCG9P7uB5t+THtKQq7G7o20qLV5w==}
+  /@zeroasic/zaui@0.5.6:
+    resolution: {integrity: sha512-Mb1A8ehBmSoEKSlYU0iLw8usXZv+Dct8jQDfX5sb64oCfEWiEyFOLUb5A49OhyM6QRaP/6wRDL4W7ftQag2mTA==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
