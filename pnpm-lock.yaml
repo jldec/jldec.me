@@ -9,8 +9,8 @@ devDependencies:
     specifier: ^0.5.10
     version: 0.5.10(tailwindcss@3.3.6)
   '@zeroasic/zaui':
-    specifier: ^0.5.6
-    version: 0.5.6
+    specifier: ^0.6.0
+    version: 0.6.0
   autoprefixer:
     specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.32)
@@ -503,8 +503,8 @@ packages:
       pretty-format: 29.7.0
     dev: true
 
-  /@zeroasic/zaui@0.5.6:
-    resolution: {integrity: sha512-Mb1A8ehBmSoEKSlYU0iLw8usXZv+Dct8jQDfX5sb64oCfEWiEyFOLUb5A49OhyM6QRaP/6wRDL4W7ftQag2mTA==}
+  /@zeroasic/zaui@0.6.0:
+    resolution: {integrity: sha512-CWq+Pr7bgLF6RUH0wjV3xdhKG9qmq9X9DSOzl2P9s6Bw5vezu85SIccJRImsj7MCLivOjm0PTOCpco2hLX1dFw==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
@@ -652,7 +652,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001570
-      electron-to-chromium: 1.4.612
+      electron-to-chromium: 1.4.614
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.22.2)
     dev: true
@@ -808,8 +808,8 @@ packages:
     resolution: {integrity: sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==}
     dev: true
 
-  /electron-to-chromium@1.4.612:
-    resolution: {integrity: sha512-dM8BMtXtlH237ecSMnYdYuCkib2QHq0kpWfUnavjdYsyr/6OsAwg5ZGUfnQ9KD1Ga4QgB2sqXlB2NT8zy2GnVg==}
+  /electron-to-chromium@1.4.614:
+    resolution: {integrity: sha512-X4ze/9Sc3QWs6h92yerwqv7aB/uU8vCjZcrMjA8N9R1pjMFRe44dLsck5FzLilOYvcXuDn93B+bpGYyufc70gQ==}
     dev: true
 
   /es6-promise@3.3.1:

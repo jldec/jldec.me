@@ -1,8 +1,6 @@
 ---
-name: resume
 title: Jürgen Leschner
 layout: Neat
-nocrawl: 1
 ---
 
 # Jürgen Leschner

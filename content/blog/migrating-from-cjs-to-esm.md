@@ -6,7 +6,7 @@ date: 2021-01-23
 excerpt: How to migrate from CommonJS to EcmaScript Modules.
 ---
 
-## Node and npm modules
+# Migrating from CommonJS to ESM
 
 [Node.js](https://nodejs.org/en/docs/guides/getting-started-guide/) opened the door for developers to build performant web servers using JavaScript.
 

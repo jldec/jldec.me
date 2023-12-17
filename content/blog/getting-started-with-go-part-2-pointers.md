@@ -6,7 +6,7 @@ date: 2021-04-18
 excerpt: Part 2 of my experience as a new user of Go.
 ---
 
-## Golang
+# Getting started with Go pointers
 
 This is part 2 of my experience as a new user of Go, focusing on the quirks and gotchas of pointers. For installation, testing, and packages, see [Getting started with Go](getting-started-with-go).
 

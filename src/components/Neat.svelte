@@ -1,10 +1,7 @@
 <script lang="ts">
-  import Markdoc from '$lib/components/Markdoc.svelte';
-  import type { MarkdownFile } from '$lib/stores/model';
-
-  export let content: MarkdownFile;
+  import PageContent from '$lib/components/PageContent.svelte';
 </script>
 
 <div class="prose-headings:m-0">
-<Markdoc {content} />
+  <PageContent />
 </div>

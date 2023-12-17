@@ -6,7 +6,7 @@ date: 2021-02-14
 excerpt: How to build a Worker which calls a WebAssembly library written in Rust.
 ---
 
-## WebAssembly and Rust
+# Calling Rust from a Cloudflare Worker
 
 From the [WebAssembly spec](https://webassembly.github.io/spec/core/intro/introduction.html):
 

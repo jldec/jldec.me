@@ -8,6 +8,8 @@ excerpt: |
   We are pleased to announce the open source release of [zaui](https://github.com/zeroasiccorp/zaui), our npm-installable SvelteKit toolchain for building websites from markdown.
 ---
 
+# Zaui, our npm-installable SvelteKit toolchain
+
 _Originally published at [https://www.zeroasic.com/blog/zaui-release](https://www.zeroasic.com/blog/zaui-release)._
 
 We are pleased to announce the open source release of [zaui](https://github.com/zeroasiccorp/zaui), our npm-installable SvelteKit toolchain for building websites from markdown.

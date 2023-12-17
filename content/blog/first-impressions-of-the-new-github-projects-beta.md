@@ -7,12 +7,13 @@ excerpt: |
   Project tables are spreadsheet-like views where each row is a real or a draft issue. Beta Projects also support kanban views. Task lists and draft issues can be converted into real issues.
 ---
 
-## Issues with GitHub issues
+# First impressions of the new GitHub Projects Beta
 
 GitHub issues have historically provided a simple yet powerful way to track work in your GitHub repositories. Each issue includes a description, assignee(s), and a timeline with a comment thread and automatically-generated references to related issues and PRs. Issues can be categorized using labels, and the issues list can be searched or filtered in many ways.
 
-But as projects get larger and more complex, working with issues also has its challenges.
+As projects get larger and more complex, working with issues also has its challenges.
 
+### Issues with GitHub issues
 - How to turn large "Epic" issues into smaller issues?
 - How to prioritize and organize issues into iterations?
 - How to track issues across multiple repositories?

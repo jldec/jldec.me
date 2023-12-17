@@ -9,6 +9,8 @@ excerpt: |
   Will the NPM ecosystem evolve to support nested ESM modules, or will some other organization, with a workable trust model, emerge to replace it?
 ---
 
+# Extracting an ESM module from a Deno script
+
 This is another followup to my recent post about [Getting Started with Deno](getting-started-with-deno).
 
 I thought it would make sense to extract the crawler code into its own [ESM module](migrating-from-cjs-to-esm) so that it can also be used with Node.js or in the browser.

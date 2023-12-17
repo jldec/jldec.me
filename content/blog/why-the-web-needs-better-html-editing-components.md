@@ -9,6 +9,8 @@ excerpt: |
   How do people write and publish content in HTML?
 ---
 
+# Why the Web needs better HTML editing components
+
 Yesterday I made a small contribution to help [**ProseMirror**](https://www.indiegogo.com/projects/prosemirror/#/story). Here's why.
 
 ## HTML is awesome

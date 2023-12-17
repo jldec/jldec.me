@@ -7,7 +7,7 @@ date: 2023-02-22
 excerpt: From zero to publishing a Python module on pypi.org.
 ---
 
-## Let's do some Python
+# Getting started with Python Packaging
 
 In preparation for using a lot more Python, I decided to refresh my Python knowedge and publish my first Python module at https://pypi.org/project/shortscale/.
 

@@ -7,7 +7,7 @@ excerpt: |
   How I deployed [jldec.fun](https://jldec.fun/) using the [Vercel platform](https://vercel.com/docs).
 ---
 
-## Vercel
+# Fun with Vercel
 
 Last week I wrote about [](first-steps-using-cloudflare-pages).
 

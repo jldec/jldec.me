@@ -7,7 +7,7 @@ excerpt: |
   In this post I enhance a GitHub Action to invoke the compiled scan.js Deno script which scans for broken links in generated HTML pages.
 ---
 
-## TL;DR
+# Running a compiled Deno script in a GitHub Action
 
 This is a quick followup to my recent post about [Getting Started with Deno](getting-started-with-deno).
 

@@ -3,18 +3,26 @@ title: Jürgen Leschner
 appurl: https://jldec.me
 favicon: favicon.jpg
 twitter: '@jldec'
-layout: Mono
 mobilemenu: false
 
 icon:
   text: '@jldec'
 
-splash:
-  image: crew-cover.jpg
+fullwidth: true
+hero:
+  name: Jürgen Leschner
+  text: Software engineer and technical EM/PM
+  tagline: With a passion for architecture at the edge.
+  icon: jldec.jpg
+  actionlinks:
+    - text: Writings
+      href: /blog
+    - text: Résumé - CV
+      href: /resume
 
 navlinks:
   - href: /blog
-    text: BLOG
+    text: Writings
   - href: https://twitter.com/jldec
     icon: Twitter
     text: Twitter
@@ -27,12 +35,10 @@ navlinks:
   - href: https://calendly.com/jldec/30min
     icon: CalendarDays
     text: Book an Appointment
+
+footer:
+  text: (c) Jürgen Leschner
 ---
-
-## > whoami
-
-Software engineer and technical EM/PM, with a passion for architecture at the edge.  
-Details in my [resume](resume).
 
 ## > history
 

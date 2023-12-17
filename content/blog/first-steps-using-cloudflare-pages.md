@@ -6,7 +6,7 @@ date: 2021-01-31
 excerpt: This is a walkthrough of my first Cloudflare Pages (Beta) site, and a comparison with GitHub Pages.
 ---
 
-## jldec.me
+# First steps using Cloudflare Pages
 
 My personal blog, [jldec.me](https://jldec.me), is hosted on [Netlify](https://netlify.com). Whenever I push markdown to GitHub, Netlify runs a build and publishes the HTML.
 

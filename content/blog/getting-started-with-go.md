@@ -7,8 +7,7 @@ excerpt: |
   The [Go](https://go.dev/) programming language has become an important tool for developers, particularly around platforms like Kubernetes and Docker.
 ---
 
-
-## Golang
+# Getting started with Go
 
 The [Go](https://go.dev/) programming language has become an important tool for developers, particularly around platforms like Kubernetes and Docker.
 

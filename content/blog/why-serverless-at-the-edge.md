@@ -6,7 +6,7 @@ date: 2019-07-11
 excerpt: What makes Serverless at the edge useful in ways that more-centralized cloud services are not?
 ---
 
-## Why tho?
+# Why Serverless at the Edge?
 
 One of the more memorable moments from today's [#ServerlessDays](https://twitter.com/ServerlessLDN) event in London was [@monkchips](https://twitter.com/monkchips)' rather emphatic pronouncement of skepticism about Serverless at the edge.
 

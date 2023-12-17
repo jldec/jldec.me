@@ -6,8 +6,8 @@ date: 2022-02-08
 excerpt: Git large file storage or LFS is a way to store binaries outside your git repo, but still work with them as if they were part of the repo.
 ---
 
+# What is git LFS?
 
-## What is git LFS?
 Git large file storage or LFS is a way to store binaries outside your git repo, but still work with them as if they were part of the repo.
 
 It works by replacing the actual file with a small text file which contains a pointer to the real thing. Every problem in computer science can be solved by another level of indirection.

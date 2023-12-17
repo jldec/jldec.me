@@ -6,7 +6,7 @@ date: 2021-04-25
 excerpt: Part 3 in my learning Go series, focusing on concurrency with Goroutines and channels.
 ---
 
-## Golang
+# Getting started with Goroutines and channels
 
 This is part 3 of my experience as a new user of Go, focusing on concurrency with Goroutines and channels.
 

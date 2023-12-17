@@ -7,8 +7,7 @@ excerpt: |
   Gitpod hosts workspaces for developers. Each workspace is a Linux container running in the cloud, with a fully functional development environment, and an instance of VS Code which you can open in your browser.
 ---
 
-
-## Gitpod Workspaces
+# Using Gitpod to create a PR
 
 [Gitpod](https://www.gitpod.io/) hosts **workspaces** for developers.
 

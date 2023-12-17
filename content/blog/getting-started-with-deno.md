@@ -7,9 +7,7 @@ excerpt: |
   The [Deno](https://deno.land/) executable is built in Rust. While this may seem like an implementation detail, you could also describe Deno as a tool to embed JavaScript inside Rust programs.
 ---
 
-
-
-## Deno
+# Getting Started with Deno
 
 [Deno](https://deno.land/) is a new JavaScript runtime built on [V8](https://github.com/v8/v8#readme).
 

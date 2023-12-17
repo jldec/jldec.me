@@ -7,7 +7,7 @@ date: 2021-06-13
 excerpt: Learn how the new concurrency group feature for GitHub Actions prevents concurrent workflows.
 ---
 
-## GitHub Actions Workflows
+# Preventing concurrent GitHub Actions
 
 What happens when you trigger a [GitHub Actions](github-actions-101) workflow which is already running? Workflows which depend on being run one-at-a-time might fail.
 

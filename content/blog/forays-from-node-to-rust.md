@@ -6,7 +6,7 @@ date: 2021-01-10
 excerpt: This article covers the experience of buiding my first Rust crate.
 ---
 
-## Why Rust?
+# Forays from Node to Rust
 
 A couple of years ago I picked up the excellent [Programming Rust](https://www.oreilly.com/library/view/programming-rust/9781491927274/) book.
 

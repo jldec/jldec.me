@@ -6,7 +6,7 @@ date: 2017-06-28
 excerpt: Spring Beans are magic - but what's behind them and why are they called beans?
 ---
 
-# What is a Spring Bean really?
+# Spring Boot 101
 
 Today I was feeling rather lost in my attempts to understand what is going on inside a Spring Boot application.
 

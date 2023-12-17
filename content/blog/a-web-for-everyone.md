@@ -6,7 +6,9 @@ date: 2019-08-08
 excerpt: Creating an open Web where anyone can put anything on the Internet is the future.
 ---
 
-## To publish on the web all you __really__ need is a domain name
+# A Web for Everyone
+
+> To publish on the web all you __really__ need is a domain name
 
 You acquire a domain name by filling in a form and paying the domain name registrar. Usually it's a simple process, and doesn't cost a lot.
 

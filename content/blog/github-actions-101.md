@@ -6,7 +6,7 @@ date: 2020-11-27
 excerpt: Not so mysterious after all 😀
 ---
 
-# How do GitHub Actions work?
+# GitHub Actions 101
 
 Today I was feeling a bit lost (again, sigh) trying to understand GitHub Actions.
 
