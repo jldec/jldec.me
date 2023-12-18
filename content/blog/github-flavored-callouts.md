@@ -23,7 +23,7 @@ And here's the markdown source,
 
 ```md
 > [!TIP]
-> The [guide](https://zaui.zeroasic.com/guide/markdown-extensions) has more details.
+> The [zaui guide](https://zaui.zeroasic.com/guide/markdown-extensions) has more details.
 ```
 
 The markdown format matches the recently introduced GitHub Markdown [Alerts extension](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/).
