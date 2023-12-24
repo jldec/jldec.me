@@ -11,12 +11,13 @@ icon:
 fullwidth: true
 hero:
   name: Jürgen Leschner
-  text: Software engineer and technical EM/PM
-  tagline: With a passion for architecture at the edge.
+  text: Software engineer and Product Leader
+  tagline: |
+    As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I figure out how to build value for customers, and as a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with teams to ship code to deliver those outcomes.
   icon: jldec.jpg
   actionlinks:
-    - text: Writings
-      href: /blog
+    - text: Hire me
+      href: /https://calendly.com/jldec/30min
     - text: Résumé - CV
       href: /resume
 
