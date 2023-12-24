@@ -17,7 +17,7 @@ hero:
   icon: jldec.jpg
   actionlinks:
     - text: Hire me
-      href: /https://calendly.com/jldec/30min
+      href: https://calendly.com/jldec/30min
     - text: Résumé - CV
       href: /resume
 
