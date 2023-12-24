@@ -6,8 +6,7 @@ layout: Neat
 # Jürgen Leschner
 [jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendly](https://calendly.com/jldec/30min).
 
-As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I figure out how to build value for customers, and as a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with teams to ship code to deliver those outcomes.
-
+Software engineer and experienced EM/PM leader.  
 Currently based in Dublin Ireland, German/EU national, US green card.
 
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - present_
@@ -43,15 +42,18 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 - Web catalog content management (IE4 JScript)
 - Binary-relational database: Collego Catalog DB
 
-#### **Siebel Interactive**: _1st hire, Engineering manager, Boston 1997-1999_
+#### **Siebel Interactive**: _1st hire, Engineering manager, Boston MA 1997-1999_
 - Web publishing: Siebel Interactive briefings (HTML & tSQL)
 
-#### **École Européene des Affaires**: _Paris MBA_
+#### **École Européene des Affaires**: _Paris, France_
+- MBA
 
-#### **Microsoft**: _Engineer, Program Manager, Redmond_ 
-- MS Word for Windows v1.0
+#### **Microsoft**: _Engineer, Program Manager, Redmond WA_
+- MS Word for Windows v1.0a
 
-#### **MIT Course 6**
+#### **MIT**: _Cambridge, MA_
+- BS Computer Science and Engineering (course VI-III)
 - MIT Media Lab: thesis supervised by Prof. Seymour Papert (LOGO for videodisc)
 
-
+#### **Patents**
+- Inventor or co-inventor on [9 US patents](https://patents.justia.com/inventor/jurgen-leschner)

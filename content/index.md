@@ -13,12 +13,12 @@ hero:
   name: Jürgen Leschner
   text: Software engineer and product leader
   tagline: |
-    As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I find value for customers, and as a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with extraordinary teams to ship outcomes.
+    I love to [build value](https://www.svpg.com/alternatives-to-product-managers/) for customers, working with [extraordinary](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5) engineering teams.
   icon: jldec.jpg
   actionlinks:
-    - text: Hire me
+    - text: Let's talk
       href: https://calendly.com/jldec/30min
-    - text: Résumé - CV
+    - text: Curriculum vitae
       href: /resume
 
 navlinks:
@@ -41,7 +41,7 @@ footer:
   text: (c) Jürgen Leschner
 ---
 
-## > history
+## > A smattering of projects
 
 - static site generator [zaui](https://zaui.zeroasic.com/) (SvelteKit, Tailwind, Cloudflare workers)
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com) (Python, AWS EC2)
@@ -49,9 +49,9 @@ footer:
 - kubernetes [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) (java, go)
 - serverless on Kubernetes: [riff](https://projectriff.io), [knative](https://knative.dev/docs/concepts/) (go)
 - static site hosting: [GitHub Pages](https://pages.github.com) (ruby)
-- site generator and editor: [pub-server](https://github.com/jldec/pub-server) (node.js, javascript)
-- cloud infrastructure: CloudFoundry S3 emulator (node.js)
-- cloud infrastructure: EMC Atmos Compute Service (Java)
+- static site generator and editor: [pub-server](https://github.com/jldec/pub-server) (node.js, javascript)
+- cloud storage: CloudFoundry S3 emulator (node.js)
+- cloud storage: EMC Atmos Compute Service (Java)
 - photo sharing: Pi Photo (XQuery)
 - desktop database: PiStore (C++)
 - xml database: Monadix (C# .NET)
@@ -65,6 +65,4 @@ footer:
 - word processor: MS Word for DOS (x86 ASM and pCode, SNOBOL4)
 - touchscreen + videodisc authoring: MIT Media Lab (Logo, MagicL)
 - word processor: MIT course 6.170 project (CLU)
-- internet storage: MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (C)
-
-
+- network storage: MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (C)
