@@ -13,7 +13,7 @@ hero:
   name: Jürgen Leschner
   text: Software engineer and product leader
   tagline: |
-    As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I find value for customers. As a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with extraordinary teams to 🚢 outcomes.
+    As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I find value for customers, and as a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with extraordinary teams to ship outcomes.
   icon: jldec.jpg
   actionlinks:
     - text: Hire me
