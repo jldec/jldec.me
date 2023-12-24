@@ -6,7 +6,8 @@ layout: Neat
 # Jürgen Leschner
 [jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendly](https://calendly.com/jldec/30min).
 
-Software engineer and experienced EM/PM leader.  
+As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I figure out how to build value for customers, and as a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with teams to ship code to deliver those outcomes.
+
 Currently based in Dublin Ireland, German/EU national, US green card.
 
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - present_

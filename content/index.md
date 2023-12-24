@@ -11,7 +11,7 @@ icon:
 fullwidth: true
 hero:
   name: Jürgen Leschner
-  text: Software engineer and Product Leader
+  text: Software engineer and product leader
   tagline: |
     As a [product leader](https://www.svpg.com/alternatives-to-product-managers/), I figure out how to build value for customers, and as a [software engineer](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5), I work with teams to ship code to deliver those outcomes.
   icon: jldec.jpg
