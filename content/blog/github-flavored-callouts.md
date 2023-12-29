@@ -7,7 +7,7 @@ splash:
 excerpt: |
   > [!NOTE]
   > Something new appeared in [GitHub Flavored Markdown](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/)  
-  > It [works in zaui](/guide/markdown-extensions) too. 🎉
+  > It [works in zaui](https://zaui.zeroasic.com/guide/markdown-extensions) too. 🎉
 ---
 
 # GitHub Flavored Callouts
