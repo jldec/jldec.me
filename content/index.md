@@ -42,19 +42,19 @@ footer:
   text: (c) Jürgen Leschner
 ---
 
-## > A smattering of projects
+## > projects
 
 - static site generator [zaui](https://zaui.zeroasic.com/) (SvelteKit, Tailwind, Cloudflare workers)
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com) (Python, AWS EC2)
-- cloud development environments: [Gitpod](https://www.gitpod.io/cde) (Google GKE)
-- kubernetes [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) (java, go)
-- serverless on Kubernetes: [riff](https://projectriff.io), [knative](https://knative.dev/docs/concepts/) (go)
-- static site hosting: [GitHub Pages](https://pages.github.com) (ruby)
+- cloud development environments: [Gitpod](https://www.gitpod.io/cde) (Google Cloud, GKE)
+- Kubernetes [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) (Java, go)
+- serverless on Kubernetes: [riff](https://projectriff.io), [knative](https://knative.dev/docs/concepts/) (go, Java, JavaScript)
+- static site hosting: [GitHub Pages](https://pages.github.com) (ruby on rails, nginx)
 - static site generator and editor: [pub-server](https://github.com/jldec/pub-server) (node.js, javascript)
 - cloud storage: CloudFoundry S3 emulator (node.js)
 - cloud storage: EMC Atmos Compute Service (Java)
 - photo sharing: Pi Photo (XQuery)
-- desktop database: PiStore (C++)
+- desktop nosql database: PiStore (C++)
 - xml database: Monadix (C# .NET)
 - binary relational database: Collego Catalog DB -  (C++)
 - dynamic html front end: Collego Catalog UI - (IE4 JScript)
@@ -66,4 +66,4 @@ footer:
 - word processor: MS Word for DOS (x86 ASM and pCode, SNOBOL4)
 - touchscreen + videodisc authoring: MIT Media Lab (Logo, MagicL)
 - word processor: MIT course 6.170 project (CLU)
-- network storage: MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (C)
+- Internet storage in 1983(!): MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (unix & C)

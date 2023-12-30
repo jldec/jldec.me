@@ -15,41 +15,47 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 - Released [zaui](https://github.com/zeroasiccorp/zaui), npm-installable SvelteKit toolchain for publishing websites from Markdown.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
-- Markdown static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm)
+- Open source static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm) - still in production.
 
 #### **Gitpod**: _Product manager, remote Cambridge UK, Oct 2021 - Feb 2023_
-- Provider of [cloud development environments](https://www.gitpod.io/cde), built on Kubernetes
+- PM on feature team for [Cloud development environments](https://www.gitpod.io/cde), built on Kubernetes.
 - Successfully led the team to ship usage-based billing.
-- Contributed in all areas from operations to docs and customer support.
 
-#### **Pivotal / VMware**: _Product manager, remote Cambridge USA & Cambridge UK, 2017 - 2021_
-- Conceived, incubated, and shipped [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html).
-- While under Pivotal, co-led [riff](https://projectriff.io/), a serverless platform on Kubernetes.
+#### **Pivotal / VMware**: _Product leader, remote Cambridge USA & Cambridge UK, 2017 - 2021_
+- Incubated and shipped [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html) for VMware's Kubernetes platform service.
+- While under Pivotal, co-led [riff](https://projectriff.io/), a serverless application service for Kubernetes.
 
 #### **GitHub**: _Principal Engineer, Engineering manager, remote Cambridge USA, 2016 - 2017_
-- Designed, built, shipped, and operated new features for GitHub Pages
-- Active participation in dev-ops of high-volume SaaS developer platform
+- Designed, built, shipped, and operated new features for GitHub Pages.
+- True, on-call devops of a high-volume SaaS platform.
 
 #### **EMC / VMWare**: _Engineering manager, remote Boston, 2008 - 2013_
-- Cloud storage infrastructure: Cloud Foundry S3 emulator (node.js)
-- Cloud compute infrastructure: EMC Atmos Compute Service
+- Led development of Cloud Foundry S3 emulator - early adopter of node.js.
+- Built EMC Atmos Compute Service together with an excellent team in China.
 
 #### **Pi Corp**:. _Co-founder, remote Boston, Dubai, Bangalore, Montreal, 2003-2008_
-- Consumer desktop search and sharing app: Pi, and Pi Photo (XQuery, HTML, CSS)
-- NoSQL and XML databases
+- Software architect serving a remarkable distributed team of engineers and visionaries.
+- Built consumer desktop search and sharing applications: Pi, and Pi Photo.
+- Led a deep foray into NoSQL and XML databases.
 
 #### **Collego**: _Founder, Boston 1999 - 2001_
-- Web catalog content management (IE4 JScript)
-- Binary-relational database: Collego Catalog DB
+- Proud survivor of dot-com era venture-backed startup, ultimately acquired by MRO/IBM.
+- Built the team and delivered a web catalog content management product.
+- Engineered a (pre-RDF) binary-relational database.
 
 #### **Siebel Interactive**: _1st hire, Engineering manager, Boston MA 1997-1999_
-- Web publishing: Siebel Interactive briefings (HTML & tSQL)
+- Engineering lead: Built one of the first user-targeted web publishing platforms.
+- Great team, acquired by Siebel.
 
 #### **École Européene des Affaires**: _Paris, France_
-- MBA
+- MBA and remarkable network building opportunity.
 
 #### **Microsoft**: _Engineer, Program Manager, Redmond WA_
-- MS Word for Windows v1.0a
+- Engineer responsible for Word localization in the fantastic International Product Group (IPG).
+- Program manager on MS Word for Windows v1.0a.
+
+#### **Digital Techniques**: _Engineer, Burlington MA_
+- Built touchscreen video solutions with an excellent team of hardware and software engineers.
 
 #### **MIT**: _Cambridge, MA_
 - BS Computer Science and Engineering (course VI-III)
