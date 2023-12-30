@@ -24,27 +24,28 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 #### **Pivotal / VMware**: _Product leader, remote Cambridge USA & Cambridge UK, 2017 - 2021_
 - Incubated and shipped [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html) for VMware's Kubernetes platform service.
 - While under Pivotal, co-led [riff](https://projectriff.io/), a serverless application service for Kubernetes.
+- Enjoyed working with some amazing engineers and being "the other Jürgen" on the [Spring team](https://spring.io/team/).
 
 #### **GitHub**: _Principal Engineer, Engineering manager, remote Cambridge USA, 2016 - 2017_
-- Designed, built, shipped, and operated new features for GitHub Pages.
+- Designed, built, shipped, and operated new features for [GitHub Pages](https://pages.github.com/).
 - True, on-call devops of a high-volume SaaS platform.
 
 #### **EMC / VMWare**: _Engineering manager, remote Boston, 2008 - 2013_
 - Led development of Cloud Foundry S3 emulator - early adopter of node.js.
-- Built EMC Atmos Compute Service together with an excellent team in China.
+- Built EMC Atmos Compute service working closely with an excellent team in China.
 
 #### **Pi Corp**:. _Co-founder, remote Boston, Dubai, Bangalore, Montreal, 2003-2008_
-- Software architect serving a remarkable distributed team of engineers and visionaries.
+- Software architect serving a remarkable distributed team of engineers and [visionaries](https://en.wikipedia.org/wiki/Paul_Maritz).
 - Built consumer desktop search and sharing applications: Pi, and Pi Photo.
-- Led a deep foray into NoSQL and XML databases.
+- Led a deep foray into [NoSQL and XML databases](https://patents.justia.com/patent/7412452).
 
 #### **Collego**: _Founder, Boston 1999 - 2001_
 - Proud survivor of dot-com era venture-backed startup, ultimately acquired by MRO/IBM.
 - Built the team and delivered a web catalog content management product.
-- Engineered a (pre-RDF) binary-relational database.
+- Engineered a (pre-[RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)) [binary-relational](https://patents.justia.com/patent/6519588) database.
 
 #### **Siebel Interactive**: _1st hire, Engineering manager, Boston MA 1997-1999_
-- Engineering lead: Built one of the first user-targeted web publishing platforms.
+- Engineering lead: Built one of the first targeted news publishing platforms.
 - Great team, acquired by Siebel.
 
 #### **École Européene des Affaires**: _Paris, France_
