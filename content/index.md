@@ -14,7 +14,7 @@ hero:
   text: Software engineer and product builder
   tagline: |
     I love working with extraordinary engineering teams,
-    to [create value](https://www.svpg.com/alternatives-to-product-managers/) for users.
+    to create [value and viability](https://www.svpg.com/alternatives-to-product-managers/).
   icon: jldec.jpg
   actionlinks:
     - text: Let's talk
