@@ -48,7 +48,7 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 - Great team, acquired by Siebel.
 
 #### **École Européene des Affaires**: _Paris, France_
-- MBA and remarkable network building opportunity.
+- MBA and remarkable networking opportunity.
 
 #### **Microsoft**: _Engineer, Program Manager, Redmond WA_
 - Engineer responsible for Word localization in the fantastic International Product Group (IPG).
