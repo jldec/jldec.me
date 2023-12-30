@@ -11,9 +11,10 @@ icon:
 fullwidth: true
 hero:
   name: Jürgen Leschner
-  text: Software engineer and product leader
+  text: Software engineer and product builder
   tagline: |
-    I love to [build value](https://www.svpg.com/alternatives-to-product-managers/) for customers, working with [extraordinary](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5) engineering teams.
+    I love working with extraordinary engineering teams,
+    to [create value](https://www.svpg.com/alternatives-to-product-managers/) for users.
   icon: jldec.jpg
   actionlinks:
     - text: Let's talk
