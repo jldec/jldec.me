@@ -48,7 +48,7 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 - Engineering lead: Built one of the first targeted news publishing platforms.
 - Great team, acquired by Siebel.
 
-#### **École Européene des Affaires**: _Paris, France_
+#### **École Européenne des Affaires**: _Paris, France_
 - MBA and remarkable networking opportunity.
 
 #### **Microsoft**: _Engineer, Program Manager, Redmond WA_
