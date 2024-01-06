@@ -8,12 +8,17 @@ excerpt: |
   _"It is not enough for everyone to be able to access the Web...
   It is also essential that people are able to contribute to the Web.
   And right now that is too hard"_ -- Rich Harris
+
+  If there's any doubt that the Web is under attack, read
+  about [HEY vs. Apple](https://x.com/jasonfried/status/1743421673871929723).
 ---
 
 # The Web is for Everyone
 At last night's Svelte Society London meetup, [Rich Harris](https://twitter.com/Rich_Harris) reminded us that the Web is sacred.
 
 _It is not enough for everyone to be able to access the Web... It is also essential that people are able to contribute to the Web. And right now that is too hard._
+
+If there's any doubt that the Web is under attack, read about [HEY vs. Apple](https://x.com/jldec/status/1743615829801910551).
 
 {% embed %}
 <iframe class="pt-8 mx-auto max-w-full" width="560" height="315" src="https://www.youtube.com/embed/eswNQiq4T2w?si=pKDmQnmV5tXGjcgg&amp;start=4523" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
