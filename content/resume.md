@@ -22,9 +22,9 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 - Successfully led the team to ship usage-based billing.
 
 #### **Pivotal / VMware**: _Product leader, remote Cambridge USA & Cambridge UK, 2017 - 2021_
-- Incubated and shipped [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html) for VMware's Kubernetes platform service.
+- Incubated and shipped [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html) for starting new k8s projects - [demo](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623133962915001FdQX).
 - While under Pivotal, co-led [riff](https://projectriff.io/), a serverless application service for Kubernetes.
-- Enjoyed working with some amazing engineers and being "the other Jürgen" on the [Spring team](https://spring.io/team/).
+- Enjoyed working with the amazing engineers and being "the other Jürgen" on the [Spring team](https://spring.io/team/).
 
 #### **GitHub**: _Principal Engineer, Engineering manager, remote Cambridge USA, 2016 - 2017_
 - Designed, built, shipped, and operated new features for [GitHub Pages](https://pages.github.com/).
