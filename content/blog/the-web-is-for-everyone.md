@@ -9,7 +9,7 @@ excerpt: |
   It is also essential that people are able to contribute to the Web.
   And right now that is too hard"_ -- Rich Harris
 
-  If there's any doubt that the Web is under attack, read
+  If there was any doubt that the Web is under attack, read
   about [HEY vs. Apple](https://x.com/jasonfried/status/1743421673871929723).
 ---
 
@@ -18,14 +18,14 @@ At last night's Svelte Society London meetup, [Rich Harris](https://twitter.com/
 
 _It is not enough for everyone to be able to access the Web... It is also essential that people are able to contribute to the Web. And right now that is too hard._
 
-If there's any doubt that the Web is under attack, read about [HEY vs. Apple](https://x.com/jldec/status/1743615829801910551).
+_[Jan 6: If there was any doubt that the Web is under attack, read about [HEY vs. Apple](https://x.com/jldec/status/1743615829801910551).]_
 
 {% embed %}
 <iframe class="pt-8 mx-auto max-w-full" width="560" height="315" src="https://www.youtube.com/embed/eswNQiq4T2w?si=pKDmQnmV5tXGjcgg&amp;start=4523" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {% /embed %}
 
 ## Gradio
-And [@pngwn](https://twitter.com/evilpingwin), who also [presented](https://www.youtube.com/live/eswNQiq4T2w?si=UmYiT4OevZ55ag9D&t=2629) last night, is doing just that. [Gradio](https://www.gradio.app/) makes it easy for AI researchers to share interactive demos of their work on the Web.
+And [@pngwn](https://twitter.com/evilpingwin), who also [presented](https://www.youtube.com/live/eswNQiq4T2w?si=UmYiT4OevZ55ag9D&t=2629) last night, is doing his part to help. [Gradio](https://www.gradio.app/) makes it easy for AI researchers to share interactive demos of their work on the Web.
 
 _From [https://www.gradio.app/guides/quickstart](https://www.gradio.app/guides/quickstart)_
 [![Gradio demo](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/gradio-guides/lcm-screenshot-3.gif)](https://www.gradio.app/guides/quickstart).
