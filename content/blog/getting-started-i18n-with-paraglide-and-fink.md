@@ -12,7 +12,7 @@ excerpt: |
 
 Last week I had the [pleasure](the-web-it-for-everyone.md) of being at the Svelte Society London gettogether. The evening started with a talk about i18n by [@loris_sigrist](https://twitter.com/loris_sigrist) from [inlang](https://inlang.com/).
 
-I was impressed by the story of [paraglide-js](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) which uses a compiler to morph translatable strings into tree-shakable javascript functions. This can improve both the developer experience, with IntelliSense, and the user experience, with reduced bundle sizes.
+I was impressed by the story of [paraglide-js](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) which compiles translatable strings into tree-shakable javascript functions. This can improve both the developer experience, with IntelliSense, and the user experience, with reduced bundle sizes.
 
 In this post I cover:
   1. Trying out paraglide-js with the SvelteKit demo app.
@@ -23,7 +23,6 @@ In this post I cover:
 All the code and commits are in [https://github.com/jldec/paraglide](https://github.com/jldec/paraglide).
 
 ## Create a new SvelteKit demo app
-When I ran create-svelte, I chose TypeScript, and initialized a git repo.
 
 ```sh
 pnpm create svelte@latest paraglide
@@ -34,7 +33,6 @@ git init && git add -A && git commit -m init
 pnpm dev
 ```
 
-Typing o + enter after the last step opens your browser on the demo app.
 ![SvelteKit Demo app screenshot](images/sveltekit-demo.webp)
 
 ## Add paraglide-js
@@ -97,7 +95,7 @@ git push
 The [commit](https://github.com/jldec/paraglide/commit/548a1a85b13435d93bde99368148dd417f77b50c) shows that `@inlang/paraglide-js@latest init` added paraglide to `package.json`, and created `project.inlang/settings.json`.
 
 ## Extract strings with the inlang VS Code extension
-I Opened the project in VS Code, and noticed the recommended [inlang VS Code extension](https://inlang.com/m/r7kp499g/app-inlang-ideExtension).
+When I opened the project in VS Code, I noticed the recommended [inlang VS Code extension](https://inlang.com/m/r7kp499g/app-inlang-ideExtension).
 
 Once this was installed, I used 'Inlang: extract message' in the command palette, to extract "Home" and "About" from `src/routes/Header.svelte` into `/messages/en.json`.
 
@@ -118,7 +116,7 @@ Once this was installed, I used 'Inlang: extract message' in the command palette
 }
 ```
 
-I also added an import for the `m` namespace, using a `$msgs` alias which I created in `svelte.config.js`.
+I also had to add an import for the `m` namespace, using a `$msgs` alias which I created in `svelte.config.js`.
 
 ```js
 import * as m from '$msgs';
@@ -132,8 +130,8 @@ kit: {
 }
 ```
 
-## Add translations with the Fink editor
-The inlang.project directory enables the Fink editor for translation in the browser. This tool makes it easy for translators to work with message files in a git repo, without having to clone the repo or use the git CLI directly.
+## Translation with the Fink editor
+Fink makes it easy for translators to work with message files in a git repo, without having to clone the repo or use the git CLI directly.
 
 You can specify the repo in the URL or using the input field at [https://fink.inlang.com/](https://fink.inlang.com/). Once authenticated and connected to the repo, inlang will rememer your recent projects in the dashboard.
 
@@ -141,7 +139,9 @@ I found the English messages as extracted, and added German translations using F
 
 ![Fink screenshot with English messages and German translations](images/fink-deutsch.webp)
 
-Fink then pushed those changes directly to the repo in GitHub. When I pulled the commit, the German messages were in `/messages/de.json`.
+Fink then pushed those changes to the repo in GitHub.
+
+When I pulled the commit, the German messages were in `/messages/de.json`.
 
 ```json
 {
@@ -153,9 +153,9 @@ Fink then pushed those changes directly to the repo in GitHub. When I pulled the
 
 ## Show translated messages in the SvelteKit demo app
 
-To trigger a re-render of the page Header in the SvelteKit demo, and hacked Counter.svelte to switch languages depending on whether the count is odd or even.
+To trigger a re-render of the page Header in the SvelteKit demo, I hacked the Counter.svelte component, to switch languages depending on whether the count is odd or even.
 
-```
+```ts
 import { setLanguageTag } from '../paraglide/runtime';
 
 let count = 0;
@@ -175,7 +175,7 @@ export const lang = readable<string>('en', (set) => {
 
 The store is used as a key to the re-render the Header in `+layout.svelte`.
 
-```svelte
+```html
 <script>
 	import Header from './Header.svelte';
 	import './styles.css';
