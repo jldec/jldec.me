@@ -110,13 +110,18 @@ Once this was installed, I used 'Inlang: extract message' in the command palette
 </li>
 ```
 
+**/messages/en.json**
 ```json
 {
-	"$schema": "https://inlang.com/schema/inlang-message-format",
+  "$schema": "https://inlang.com/schema/inlang-message-format",
 	"home": "Home",
 	"about": "About"
 }
 ```
+
+Once things are configured properly, the extension will show IntelliSense and translated text for each `m.<key>()`.
+
+![Screenshot of VS Code extension showing translated text](images/translations-in-editor.webp)
 
 I also had to add an import for the `m` namespace, using a `$msgs` alias which I created in `svelte.config.js`.
 
@@ -141,10 +146,11 @@ I found the English messages as extracted, and added `de` German translations us
 
 ![Fink screenshot with English messages and German translations](images/fink-deutsch.webp)
 
-Fink then pushed those changes to the repo in GitHub.
+Fink then pushed a [commit](https://github.com/jldec/paraglide/commit/98b1b618a4d0badb56bde98bd9a6ec9acd03706a) to the repo in GitHub.
 
-When I pulled the commit, the German messages were in `/messages/de.json`.
+When I pulled down the changes, the new German messages were in `/messages/de.json`.
 
+**/messages/de.json**
 ```json
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
