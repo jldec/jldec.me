@@ -14,8 +14,8 @@ Last week I had the [pleasure](the-web-it-for-everyone.md) of being at the Svelt
 
 I was impressed by the story of [paraglide-js](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) which uses a compiler to morph translatable strings into tree-shakable javascript functions. This can improve both the developer experience, with IntelliSense, and the user experience, with reduced bundle sizes.
 
-I this post I will cover:
-  1. Trying out paraglide with the SvelteKit demo app.
+In this post I cover:
+  1. Trying out paraglide-js with the SvelteKit demo app.
   2. Extracting strings using the inlang VS Code extension.
   3. Translating messages in the browser using Fink.
   4. Making the translated messages appear in the SvelteKit demo app.
