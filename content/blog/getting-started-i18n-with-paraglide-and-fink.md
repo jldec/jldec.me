@@ -50,7 +50,9 @@ pnpx @inlang/paraglide-js@latest init
 
 ℹ You have uncommitted changes.
 
-Please commit your changes before initializing inlang Paraglide-JS. Committing outstanding changes ensures that you don't lose any work, and see the changes the paraglide-js init command introduces.
+Please commit your changes before initializing inlang Paraglide-JS. Committing outstanding 
+changes ensures that you don't lose any work, and see the changes the paraglide-js init 
+command introduces.
 
 ✔ Do you want to initialize inlang Paraglide-JS without committing your current changes?
 Yes
