@@ -89,7 +89,7 @@ git commit -m 'Add paraglide'
 ```
 
 And pushed the commit to a new repo on GitHub.
-```
+```sh
 git remote add origin https://github.com/jldec/paraglide.git
 git push
 ```
@@ -137,7 +137,7 @@ Fink makes it easy for translators to work with message files in a git repo, wit
 
 You can specify the repo in the URL or using the input field at [https://fink.inlang.com/](https://fink.inlang.com/). Once authenticated and connected to the repo, inlang will rememer your recent projects in the dashboard.
 
-I found the English messages as extracted, and added German translations using Fink.
+I found the English messages as extracted, and added `de` German translations using Fink.
 
 ![Fink screenshot with English messages and German translations](images/fink-deutsch.webp)
 
@@ -155,7 +155,10 @@ When I pulled the commit, the German messages were in `/messages/de.json`.
 
 ## Show translated messages in the SvelteKit demo app
 
-To trigger a re-render of the page Header in the SvelteKit demo, I hacked the Counter.svelte component, to switch languages depending on whether the count is odd or even.
+To re-render the page Header when the language changes, I hacked Counter.svelte, to call `setLanguageTag()` whenever the count toggles beteween odd and even.
+
+> [!tip]
+> Normally users would change the language URL themselves, or it can be detected from the [browser](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/language).
 
 ```ts
 import { setLanguageTag } from '../paraglide/runtime';
@@ -171,11 +174,11 @@ import { readable } from 'svelte/store';
 import { onSetLanguageTag, languageTag } from '../paraglide/runtime';
 
 export const lang = readable<string>('en', (set) => {
-  onSetLanguageTag(() => set(languageTag()));
+  onSetLanguageTag(set);
 });
 ```
 
-The store is used as a key to the re-render the Header in `+layout.svelte`.
+The value of the store is used as the key to the re-render the Header in `+layout.svelte`.
 
 ```html
 <script>
@@ -195,23 +198,6 @@ And the result looks like this:
 ![Screenshot of SvelteKit demo with translated header](images/translated-demo-header.webp)
 
 The repo `https://github.com/jldec/paraglide` is public, so anyone can try it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
