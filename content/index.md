@@ -13,12 +13,11 @@ hero:
   name: Jürgen Leschner
   text: Software engineer and product builder
   tagline: |
-    I love working with extraordinary engineering teams,
-    to create [value and viability](https://www.svpg.com/alternatives-to-product-managers/).
+    [Creating value](https://www.svpg.com/alternatives-to-product-managers/) with extraordinary engineering teams.
   icon: jldec.jpg
   actionlinks:
     - text: Let's talk
-      href: https://calendly.com/jldec/30min
+      href: https://cal.com/jldec/30min
     - text: Curriculum vitae
       href: /resume
 

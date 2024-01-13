@@ -4,14 +4,17 @@ layout: Neat
 ---
 
 # Jürgen Leschner
-[jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendly](https://calendly.com/jldec/30min).
+[jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendar](https://cal.com/jldec/30min).
 
 Software engineer and experienced EM/PM leader.  
 Currently based in Dublin Ireland, German/EU national, US green card.
 
-#### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - present_
+#### **inlang**: _Engineer, remote Dublin Ireland, now_
+- Building a multisided platform for internationalization (i18n).
+
+#### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
-- Successfully shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation) in Oct 2023.
+- Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation) in Oct 2023.
 - Released [zaui](https://github.com/zeroasiccorp/zaui), npm-installable SvelteKit toolchain for publishing websites from Markdown.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
