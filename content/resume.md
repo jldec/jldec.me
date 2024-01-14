@@ -9,7 +9,7 @@ layout: Neat
 Software engineer and experienced EM/PM leader.  
 Currently based in Dublin Ireland, German/EU national, US green card.
 
-#### **inlang**: _Engineer, remote Dublin & Boston, now_
+#### **inlang**: _Engineer, remote Dublin & Boston, Jan 2024 - present_
 - Building a multisided platform for internationalization (i18n).
 
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
