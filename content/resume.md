@@ -15,7 +15,7 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
 - Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation) in Oct 2023.
-- Released [zaui](https://github.com/zeroasiccorp/zaui), npm-installable SvelteKit toolchain for publishing websites from Markdown.
+- Released [gitkitjs](https://github.com/gitkitjs/gitkitjs), npm-installable SvelteKit toolchain for publishing websites from Markdown.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
 - Open source static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm) - still in production.

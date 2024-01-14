@@ -46,7 +46,7 @@ How can the Svelte community help with this?
 
 One way might be for Svelte to make it easier to render rich, user-generated content in HTML.
 
-Having to install a compiler, or running a static-site generator, adds friction to something which should be very straightforward. Doing this dynamically in the browser is one of the ideas I'm exploring with [zaui](https://github.com/zeroasiccorp/zaui).
+Having to install a compiler, or running a static-site generator, adds friction to something which should be very straightforward. Doing this dynamically in the browser is one of the ideas I'm exploring with [gitkitjs](https://github.com/gitkitjs/gitkitjs).
 
 {% embed %}
 <h2 class="text-center">

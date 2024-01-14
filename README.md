@@ -9,4 +9,4 @@ https://jldec.me/
 
 ---
 
-Built with ❤️ using 💥 [zaui](https://github.com/zeroasiccorp/zaui).
+Built with ❤️ using 💥 [gitkitjs](https://github.com/gitkitjs/gitkitjs).
