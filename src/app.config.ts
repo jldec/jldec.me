@@ -1,5 +1,4 @@
 import Neat from './components/Neat.svelte';
-import Twitter from './components/Twitter.svelte';
 import CalendarDays from './components/CalendarDays.svelte';
 
 const config: App.AppConfig = {
@@ -11,7 +10,6 @@ const config: App.AppConfig = {
   markdownComponents: {
   },
   iconComponents: {
-    Twitter,
     CalendarDays
   },
 };
