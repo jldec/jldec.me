@@ -7,10 +7,11 @@ layout: Neat
 [jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendar](https://cal.com/jldec/30min).
 
 Software engineer and experienced EM/PM leader.  
-Currently based in Dublin Ireland, German/EU national, US green card.
+Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green card.
 
-#### **inlang**: _Engineer, remote Dublin & Boston, Jan 2024 - present_
-- Building a multisided platform for internationalization (i18n).
+#### **Opral**: _Engineer, remote Dublin & Boston, Jan 2024 - present_
+- Pushing the frontiers of collaboration through change control.
+- Developing [inlang](https://inlang.com/documentation), a multi-sided platform for internationalization (i18n).
 
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
@@ -49,10 +50,10 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 
 #### **Siebel Interactive**: _1st hire, Engineering manager, Boston MA 1997-1999_
 - Engineering lead: Built one of the first targeted news publishing platforms.
-- Great team, acquired by Siebel.
+- Great team, company acquired by Siebel.
 
 #### **École Européenne des Affaires**: _Paris, France_
-- MBA and remarkable networking opportunity.
+- MBA and awesome networking opportunity.
 
 #### **Microsoft**: _Engineer, Program Manager, Redmond WA_
 - Engineer responsible for Word localization in the fantastic International Product Group (IPG).
@@ -61,7 +62,7 @@ Currently based in Dublin Ireland, German/EU national, US green card.
 #### **Digital Techniques**: _Engineer, Burlington MA_
 - Built touchscreen video solutions with an excellent team of hardware and software engineers.
 
-#### **MIT**: _Cambridge, MA_
+#### **MIT**: _Immersion in brilliant engineering, Cambridge, MA_
 - BS Computer Science and Engineering (course VI-III)
 - MIT Media Lab: thesis supervised by Prof. Seymour Papert (LOGO for videodisc)
 
