@@ -10,8 +10,9 @@ Software engineer and experienced EM/PM leader.
 Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green card.
 
 #### **Opral**: _Engineer, remote Dublin & Boston, Jan 2024 - present_
-- Pushing the frontiers of collaboration through change control.
 - Developing [inlang](https://inlang.com/documentation), a multi-sided platform for internationalization (i18n).
+- Rediscovering file-based collaboration in a world with browsers and git-workflows.
+
 
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
