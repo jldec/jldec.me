@@ -11,8 +11,7 @@ Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green 
 
 #### **Opral**: _Engineer, remote Dublin & Boston, Jan 2024 - present_
 - Developing [inlang](https://inlang.com/documentation), a multi-sided platform for internationalization (i18n).
-- Rediscovering file-based collaboration in a world with browsers and git-workflows.
-
+- Spreading the superpower of [distributed change control](https://github.com/opral/monorepo/tree/main/lix#readme).
 
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
@@ -23,7 +22,7 @@ Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green 
 - Open source static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm) - still in production.
 
 #### **Gitpod**: _Product manager, remote Cambridge UK, Oct 2021 - Feb 2023_
-- PM on feature team for [Cloud development environments](https://www.gitpod.io/cde), built on Kubernetes.
+- PM on feature team for k8s-based [Cloud development environments](https://www.gitpod.io/cde).
 - Successfully led the team to ship usage-based billing.
 
 #### **Pivotal / VMware**: _Product leader, remote Cambridge USA & Cambridge UK, 2017 - 2021_
@@ -39,17 +38,17 @@ Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green 
 - Led development of Cloud Foundry S3 emulator - early adopter of node.js.
 - Built EMC Atmos Compute service working closely with an excellent team in China.
 
-#### **Pi Corp**:. _Co-founder, remote Boston, Dubai, Bangalore, Montreal, 2003-2008_
+#### **Pi Corp**:. _Co-founder, remote Boston, Dubai, Bangalore, Montreal, 2003 - 2008_
 - Software architect serving a remarkable distributed team of engineers and [visionaries](https://en.wikipedia.org/wiki/Paul_Maritz).
 - Built consumer desktop search and sharing applications: Pi, and Pi Photo.
 - Led a deep foray into [NoSQL and XML databases](https://patents.justia.com/patent/7412452).
 
 #### **Collego**: _Founder, Boston 1999 - 2001_
-- Proud survivor of dot-com era venture-backed startup, ultimately acquired by MRO/IBM.
+- Proud founder and survivor of dot-com venture-backed startup, acquired by MRO/IBM.
 - Built the team and delivered a web catalog content management product.
 - Engineered a (pre-[RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)) [binary-relational](https://patents.justia.com/patent/6519588) database.
 
-#### **Siebel Interactive**: _1st hire, Engineering manager, Boston MA 1997-1999_
+#### **Siebel Interactive**: _1st hire, Engineering manager, Boston MA 1997 - 1999_
 - Engineering lead: Built one of the first targeted news publishing platforms.
 - Great team, company acquired by Siebel.
 
