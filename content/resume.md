@@ -9,19 +9,18 @@ layout: Neat
 Software engineer and experienced EM/PM leader.  
 Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green card.
 
-#### **Opral**: _Engineer, remote Dublin & Boston, Jan 2024 - present_
-- Developing [inlang](https://inlang.com/documentation), a multi-sided platform for internationalization (i18n).
-- Spreading the superpower of [distributed change control](https://github.com/opral/monorepo/tree/main/lix#readme).
+#### **Opral**: _Engineering, remote Dublin & Boston, 2024_
+- Part of the awesome team building [inlang](https://inlang.com/documentation), a multi-sided i18n platform, and [lix](https://github.com/opral/monorepo/tree/main/lix#readme) change control.
 
-#### **Zero ASIC**: _Software Architect, remote Dublin Ireland, Feb 2023 - Jan 2024_
+#### **Zero ASIC**: _Software Architect, remote Dublin Ireland, 2023_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
-- Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation) in Oct 2023.
+- Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation).
 - Released [gitkitjs](https://github.com/gitkitjs/gitkitjs), npm-installable SvelteKit toolchain for publishing websites from Markdown.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
 - Open source static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm) - still in production.
 
-#### **Gitpod**: _Product manager, remote Cambridge UK, Oct 2021 - Feb 2023_
+#### **Gitpod**: _Product manager, remote Cambridge UK, 2021 - 2022_
 - PM on feature team for k8s-based [Cloud development environments](https://www.gitpod.io/cde).
 - Successfully led the team to ship usage-based billing.
 
@@ -53,7 +52,7 @@ Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green 
 - Great team, company acquired by Siebel.
 
 #### **École Européenne des Affaires**: _Paris, France_
-- MBA and awesome networking opportunity.
+- MBA and networking opportunity.
 
 #### **Microsoft**: _Engineer, Program Manager, Redmond WA_
 - Engineer responsible for Word localization in the fantastic International Product Group (IPG).
