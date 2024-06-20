@@ -3,7 +3,7 @@ title: Jürgen Leschner
 appurl: https://jldec.me
 favicon: favicon.jpg
 twitter: '@jldec'
-mobilemenu: false
+mobilemenu: true
 
 icon:
   text: '@jldec'
