@@ -1,16 +1,16 @@
 import Neat from './components/Neat.svelte';
 import CalendarDays from './components/CalendarDays.svelte';
+import Discord from './components/Discord.svelte';
 
 const config: App.AppConfig = {
-  appComponents: {
-  },
+  appComponents: {},
   layoutComponents: {
     Neat,
   },
-  markdownComponents: {
-  },
+  markdownComponents: {},
   iconComponents: {
-    CalendarDays
+    CalendarDays,
+    Discord,
   },
 };
 

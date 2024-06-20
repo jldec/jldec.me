@@ -30,6 +30,9 @@ navlinks:
   - href: https://github.com/jldec/jldec.me
     icon: GitHub
     text: GitHub
+  - href: https://discord.gg/JrD8c7GbrZ
+    icon: Discord
+    text: Discord Chat
   - href: https://www.linkedin.com/in/jldec
     icon: LinkedIn
     text: LinkedIn
