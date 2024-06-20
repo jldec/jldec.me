@@ -4,7 +4,7 @@ layout: Neat
 ---
 
 # Jürgen Leschner
-[jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendar](https://cal.com/jldec/30min).
+[jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [discord](https://discord.gg/JrD8c7GbrZ "Chat on Discord") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendar](https://cal.com/jldec/30min "Book an appointment").
 
 Software engineer and experienced EM/PM leader.  
 Based in Lexington MA, 2nd home in Dublin Ireland, German/EU national, US green card.
