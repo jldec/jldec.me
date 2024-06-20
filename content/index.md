@@ -16,7 +16,7 @@ hero:
     [Creating value](https://www.svpg.com/alternatives-to-product-managers/) with extraordinary engineering teams.
   icon: jldec.jpg
   actionlinks:
-    - text: Chat on my Discord
+    - text: Chat
       href: https://discord.gg/JrD8c7GbrZ
     - text: Curriculum vitae
       href: /resume
