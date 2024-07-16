@@ -24,18 +24,18 @@ hero:
 navlinks:
   - href: /blog
     text: Writings
-  - href: https://twitter.com/jldec
+  - href: https://x.com/jldec
     icon: Twitter
-    text: Twitter
+    text: All the tweets
   - href: https://github.com/jldec/jldec.me
     icon: GitHub
-    text: GitHub
+    text: The GitHub
   - href: https://discord.gg/JrD8c7GbrZ
     icon: Discord
-    text: Discord Chat
+    text: My Discord
   - href: https://www.linkedin.com/in/jldec
     icon: LinkedIn
-    text: LinkedIn
+    text: LinkedIn Yo
   - href: https://calendly.com/jldec/30min
     icon: CalendarDays
     text: Book an Appointment
