@@ -24,8 +24,8 @@ Yes history, yes images, yes private, yes instant.
 ### Tomorrow
 
 1. Have an idea, capture it in the moment.
-2. Your publishig tool will enrich it with text, images etc.
-3. Optionally approve or edit before publishing
+2. Your publishig tool checks it, enriches it, adds images etc.
+3. You optionally approve or edit before publishing.
 
 ### Plus ça change...
 
