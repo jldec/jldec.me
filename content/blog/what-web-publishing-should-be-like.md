@@ -12,34 +12,41 @@ excerpt: |
 
 # Publishing on the Web should be like...
 
-### today (best case)
+### Today
 
-1. go to your domain, click new or edit
-2. type your thoughts
-3. publish
+1. Go to your domain, click new or edit
+2. Type your thoughts
+3. Publish
 
 No dev server, no git workflow, no build.  
 Yes history, yes images, yes private, yes instant.
 
-### tomorrow
+### Tomorrow
 
-#### content consumers
-- expect more personalized delivery
-- they are in charge.
-- click on a tweet
-- find out whats happening
-- go as deep as you want without touching sides
+1. Have an idea, capture it in the moment.
+2. Your publishig tool will enrich it with text, images etc.
+3. Optionally approve or edit before publishing
 
-#### publishers
-- will have to adapt how and what and where they publish
-- think about SEO in a post-google era
-- now think about the long tail of small business and personal domain names...
+### Plus ça change...
+
+#### Content consumers
+- Expect more personalized delivery -- they are in charge.
+- Click on a tweet, find out whats happening
+- Go as deep as you want without touching sides
+
+#### Publishers
+- Will adapt how and what and where they publish.
+- Think about SEO in a post-google era
+- What happens to the long tail of small business and personal domains?
 
 #### developers
-- a new era means new opportunities
-- expect new platforms and new frameworks
+- A new era means new opportunities.
+- Expect new platforms and new frameworks
+- Faster, lighter, more dynamic
 
 #### designers
-- expect more changes in how people consume content
+- Work with AI assist like everyone else
+- Expect upheaval in how people consume content
+- Branding and style still matters
 
-
+_"Tomorrow" section added on July 26, San Francisco_
