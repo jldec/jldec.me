@@ -39,12 +39,12 @@ Yes history, yes images, yes private, yes instant.
 - Think about SEO in a post-google era
 - What happens to the long tail of small business and personal domains?
 
-#### developers
+#### Developers
 - A new era means new opportunities.
 - Expect new platforms and new frameworks
 - Faster, lighter, more dynamic
 
-#### designers
+#### Designers
 - Work with AI assist like everyone else
 - Expect upheaval in how people consume content
 - Branding and style still matters
