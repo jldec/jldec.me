@@ -24,7 +24,7 @@ Yes history, yes images, yes private, yes instant.
 ### Tomorrow
 
 1. Have an idea, capture it in the moment.
-2. Your publishing assistant checks it, enriches it, adds images etc.
+2. Your AI publishing agent checks it, enriches it, adds images etc.
 3. You optionally approve or edit before publishing.
 
 ### Plus ça change...
