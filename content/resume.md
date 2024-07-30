@@ -10,7 +10,9 @@ Software engineer and experienced EM/PM leader.
 Home in Lexington MA, 2nd base in Dublin Ireland, EU national, US green card.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
-- Open source static site generator and editor: [pub-server](https://jldec.github.io/pub-doc/) (node.js, npm) - still in production.
+- Now exploring AI agentic Web publishing with [presskit](https://github.com/jldec/presskit/).
+- [gitkitjs](https://github.com/gitkitjs/gitkitjs): modern npm-installable web publishing - inspired by VitePress - built on SvelteKit.
+- [pub-server](https://jldec.github.io/pub-doc/): pioneering npm-themable static site generator and editor - still in production.
 
 #### **Opral**: _Engineering, remote Dublin & Boston, Jan - June 2024_
 - Part of the awesome team building [inlang](https://inlang.com/documentation), a multi-sided i18n platform, and [lix](https://github.com/opral/monorepo/tree/main/lix#readme) change control.
@@ -18,7 +20,7 @@ Home in Lexington MA, 2nd base in Dublin Ireland, EU national, US green card.
 #### **Zero ASIC**: _Software Architect, remote Dublin Ireland, 2023_
 - Semiconductor company developing a disruptive chiplet-based platform for custom SOCs.
 - Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation).
-- Released [gitkitjs](https://github.com/gitkitjs/gitkitjs), npm-installable SvelteKit toolchain for publishing websites from Markdown.
+- Built [zaui](https://github.com/zeroasiccorp/zaui), a pip-installable, python-extensible framework for web publishing.
 
 #### **Gitpod**: _Product manager, remote Cambridge UK, 2021 - 2022_
 - PM on feature team for k8s-based [Cloud development environments](https://www.gitpod.io/cde).

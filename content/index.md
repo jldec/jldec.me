@@ -46,8 +46,9 @@ footer:
 
 ## > projects
 
+- AI agentic Web publishing [presskit](https://github.com/jldec/presskit/) (Cloudflare workers AI)
 - git-backed i18n platform [Inlang](https://inlang.com/) (TypeScript, SolidJS, RxJS)
-- static site generator [gitkitjs](https://gitkitjs.dev/) (SvelteKit, Tailwind, Cloudflare workers)
+- static site generator [gitkitjs](https://gitkitjs.dev/) (SvelteKit, Tailwind, Cloudflare Pages)
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com/emulation) (Python, AWS EC2)
 - cloud development environments: [Gitpod](https://www.gitpod.io/cde) (Google Cloud, GKE)
 - Kubernetes [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) (Java, go)
