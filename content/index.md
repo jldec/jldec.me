@@ -13,7 +13,7 @@ hero:
   name: Jürgen Leschner
   text: Product engineer
   tagline: |
-    [Creating value](https://www.svpg.com/alternatives-to-product-managers/) with extraordinary engineering teams.
+    Building value with [extraordinary teams](https://www.svpg.com/empowered-product-teams/).
   icon: jldec.jpg
   actionlinks:
     - text: Let's talk
@@ -48,7 +48,7 @@ footer:
 
 - web publishing reimagined [presskit](https://github.com/jldec/presskit/) (Cloudflare workers AI)
 - git-backed i18n platform [Inlang](https://inlang.com/) (TypeScript, SolidJS, RxJS)
-- static site generator [gitkitjs](https://gitkitjs.dev/) (SvelteKit, Tailwind, Cloudflare Pages)
+- site generator [gitkitjs](https://gitkitjs.dev/) (SvelteKit, Tailwind, Cloudflare Pages)
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com/emulation) (Python, AWS EC2)
 - cloud development environments: [Gitpod](https://www.gitpod.io/cde) (Google Cloud, GKE)
 - Kubernetes [accelerators](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/index.html) (Java, go)
