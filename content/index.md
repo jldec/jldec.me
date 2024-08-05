@@ -11,12 +11,12 @@ icon:
 fullwidth: true
 hero:
   name: Jürgen Leschner
-  text: Product engineer
+  text: "Product Engineer"
   tagline: |
-    Building value with [extraordinary teams](https://www.svpg.com/empowered-product-teams/).
+    Let's ship something [extraordinary](https://www.svpg.com/empowered-product-teams/) today.
   icon: jldec.jpg
   actionlinks:
-    - text: Let's talk
+    - text: Calendar
       href: https://calendly.com/jldec/30min
     - text: Curriculum vitae
       href: /resume
