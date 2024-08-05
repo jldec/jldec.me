@@ -10,8 +10,8 @@ Software engineer and experienced EM/PM leader.
 Home in Lexington MA, 2nd base in Dublin Ireland, EU national, US green card.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
-- Now exploring AI agentic Web publishing with [presskit](https://github.com/jldec/presskit/).
-- [gitkitjs](https://github.com/gitkitjs/gitkitjs): modern npm-installable web publishing - inspired by VitePress - built on SvelteKit.
+- [presskit](https://github.com/jldec/presskit/): Reimagining Web publishing with AI.
+- [gitkitjs](https://github.com/gitkitjs/gitkitjs): modern npm-installable Web publishing - inspired by VitePress - built on SvelteKit.
 - [pub-server](https://jldec.github.io/pub-doc/): pioneering npm-themable static site generator and editor - still in production.
 
 #### **Opral**: _Engineering, remote Dublin & Boston, Jan - June 2024_

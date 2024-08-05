@@ -11,13 +11,13 @@ icon:
 fullwidth: true
 hero:
   name: Jürgen Leschner
-  text: Software engineer and product builder
+  text: Product engineer
   tagline: |
     [Creating value](https://www.svpg.com/alternatives-to-product-managers/) with extraordinary engineering teams.
   icon: jldec.jpg
   actionlinks:
-    - text: Chat
-      href: https://discord.gg/JrD8c7GbrZ
+    - text: Let's talk
+      href: https://calendly.com/jldec/30min
     - text: Curriculum vitae
       href: /resume
 
@@ -46,7 +46,7 @@ footer:
 
 ## > projects
 
-- AI agentic Web publishing [presskit](https://github.com/jldec/presskit/) (Cloudflare workers AI)
+- web publishing reimagined [presskit](https://github.com/jldec/presskit/) (Cloudflare workers AI)
 - git-backed i18n platform [Inlang](https://inlang.com/) (TypeScript, SolidJS, RxJS)
 - static site generator [gitkitjs](https://gitkitjs.dev/) (SvelteKit, Tailwind, Cloudflare Pages)
 - chiplet emulation platform: [Zero ASIC](https://www.zeroasic.com/emulation) (Python, AWS EC2)
