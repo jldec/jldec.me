@@ -1,11 +1,11 @@
 # jldec.me
-https://jldec.me/
+Content repo for https://jldec.me/
 
-![Screenshot 2024-01-14 at 20 42 16](https://github.com/jldec/jldec.me/assets/849592/218fe8cc-60ca-4919-9ed3-388e0fdbf6d9)
+![Screenshot 2024-08-05 at 10 37 52](https://github.com/user-attachments/assets/e1bdeca9-3262-432d-94aa-7805e30aa9e0)
 
 ---
 
-![Screenshot 2024-01-14 at 20 49 56](https://github.com/jldec/jldec.me/assets/849592/7cbd6bb0-a1a3-4820-aeaa-96b6231c4ba6)
+![Screenshot 2024-08-05 at 10 40 30](https://github.com/user-attachments/assets/5d10b787-4edf-41e1-9746-faf195a07cbb)
 
 ---
 
