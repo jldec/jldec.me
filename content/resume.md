@@ -66,10 +66,10 @@ Home in Lexington MA, 2nd base in Dublin Ireland, og from Johannesburg.
 #### **MIT**: _Immersed in science and technology, Cambridge, MA_
 - Undergraduate research with some amazing professors including [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed).
 - SB Computer Science and Engineering (course VI-III)
-- MIT Media Lab: thesis supervised by Prof. Seymour Papert (LOGO for videodisc)
+- MIT Media Lab: turtle-graphics videodisc authoring thesis project supervised by [Prof. Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
 
 #### **Damelin College**: _Awesome academic high school, Johannesburg S.Africa_
-- Lucky to have such great teachers esp. in Computer Science.
+- Lucky to have had such great teachers esp. in Computer Science.
 
 #### **Patents**
 - Inventor or co-inventor on [9 US patents](https://patents.justia.com/inventor/jurgen-leschner)
