@@ -7,7 +7,7 @@ layout: Neat
 [jldec.me](https://jldec.me/) | [github](https://github.com/jldec "GitHub: https://github.com/jldec") | [linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [discord](https://discord.gg/JrD8c7GbrZ "Chat on Discord") | [jurgen@jldec.me](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [calendar](https://cal.com/jldec/30min "Book an appointment").
 
 Software engineer and experienced EM/PM leader.  
-Home in Lexington MA, 2nd base in Dublin Ireland.
+Home in Lexington MA, 2nd base in Dublin Ireland, og from Johannesburg.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
 - [presskit](https://github.com/jldec/presskit/): Reimagining Web publishing with AI.
@@ -63,9 +63,13 @@ Home in Lexington MA, 2nd base in Dublin Ireland.
 #### **Digital Techniques**: _Engineer, Burlington MA_
 - Built touchscreen video solutions with an excellent team of hardware and software engineers.
 
-#### **MIT**: _Immersion in brilliant engineering, Cambridge, MA_
-- BS Computer Science and Engineering (course VI-III)
+#### **MIT**: _Immersed in science and technology, Cambridge, MA_
+- Undergraduate research with some amazing professors including [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed).
+- SB Computer Science and Engineering (course VI-III)
 - MIT Media Lab: thesis supervised by Prof. Seymour Papert (LOGO for videodisc)
+
+#### **Damelin College**: _Awesome academic high school, Johannesburg S.Africa_
+- Lucky to have such great teachers esp. in Computer Science.
 
 #### **Patents**
 - Inventor or co-inventor on [9 US patents](https://patents.justia.com/inventor/jurgen-leschner)
