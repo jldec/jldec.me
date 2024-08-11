@@ -10,16 +10,18 @@ icon:
 
 fullwidth: true
 hero:
-  name: Jürgen Leschner
-  text: "Product Engineer"
+  name: jürgen leschner
+  text: product engineer
   tagline: |
-    Let's ship something [extraordinary](https://www.svpg.com/empowered-product-teams/) today.
+    Ship something [extraordinary](https://www.svpg.com/empowered-product-teams/).
   icon: jldec.jpg
   actionlinks:
-    - text: Calendar
+    - text: Let's talk
       href: https://calendly.com/jldec/30min
-    - text: Curriculum vitae
+    - text: Resumé
       href: /resume
+    - text: Code
+      href: https://github.com/jldec
 
 navlinks:
   - href: /blog
@@ -27,9 +29,9 @@ navlinks:
   - href: https://x.com/jldec
     icon: Twitter
     text: All the tweets
-  - href: https://github.com/jldec/jldec.me
+  - href: https://github.com/jldec
     icon: GitHub
-    text: The GitHub
+    text: GitHub
   - href: https://discord.gg/JrD8c7GbrZ
     icon: Discord
     text: My Discord
