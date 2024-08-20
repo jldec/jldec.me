@@ -63,9 +63,9 @@ Home in Lexington MA, 2nd base in Dublin Ireland, og from Johannesburg.
 #### **Digital Techniques**: _Engineer, Burlington MA_
 - Built touchscreen video solutions with an excellent team of hardware and software engineers.
 
-#### **MIT**: _Immersed in science and technology, Cambridge, MA_
-- Undergraduate research with some amazing professors including [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed).
+#### **MIT**: _Cambridge, MA_
 - SB Computer Science and Engineering (course VI-III)
+- Undergraduate research with some amazing professors including [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed).
 - MIT Media Lab: turtle-graphics videodisc authoring thesis project supervised by [Prof. Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
 
 #### **Damelin College**: _Awesome academic high school, Johannesburg S.Africa_
