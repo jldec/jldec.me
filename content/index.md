@@ -14,7 +14,7 @@ hero:
   text: product engineer
   tagline: |
     Building [extraordinary](https://www.svpg.com/empowered-product-teams/) things.
-  icon: jldec-building-things.png
+  icon: jldec.jpg
   actionlinks:
     - text: Let's talk
       href: https://calendly.com/jldec/30min
