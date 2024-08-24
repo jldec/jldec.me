@@ -13,15 +13,13 @@ hero:
   name: jürgen leschner
   text: product engineer
   tagline: |
-    Building [extraordinary](https://www.svpg.com/empowered-product-teams/) things.
+    Building [extraordinary](https://x.com/jldec/status/1827055952916357609) things.
   icon: jldec.jpg
   actionlinks:
-    - text: Let's talk
+    - text: "Talk"
       href: https://calendly.com/jldec/30min
     - text: Resumé
       href: /resume
-    - text: Code
-      href: https://github.com/jldec
 
 navlinks:
   - href: /blog
