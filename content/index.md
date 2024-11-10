@@ -14,6 +14,9 @@ hero:
   text: product engineer
   tagline: |
     Building [extraordinary](https://x.com/jldec/status/1827055952916357609) things.
+
+    > [!TIP]
+    > Content in [this repo](https://github.com/jldec/jldec.me) is no longer being updated. [jldec.me](https://jldec.me/) is now being generated using [presskit](https://github.com/jldec/presskit). 
   icon: jldec.jpg
   actionlinks:
     - text: "Talk"
